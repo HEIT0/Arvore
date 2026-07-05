@@ -1,0 +1,1553 @@
+{
+  "schema_version": "1.1",
+  "kind": "legacy_tree",
+  "rules": {
+    "assign_only_deepest_atoms": true,
+    "inherit_all_ancestors": true,
+    "legacy_labels_preserved": true
+  },
+  "roots": [
+    {
+      "id": "fotometria_e_radiacao",
+      "label": "Fotometria e Radiação",
+      "children": [
+        {
+          "id": "fotometria_e_radiacao__corpo_negro",
+          "label": "Corpo Negro",
+          "children": [
+            {
+              "id": "fotometria_e_radiacao__corpo_negro__lei_de_planck_radiancia_espectral",
+              "label": "Lei de Planck/Radiância Espectral"
+            },
+            {
+              "id": "fotometria_e_radiacao__corpo_negro__lei_de_rayleigh_jeans",
+              "label": "Lei de Rayleigh-Jeans"
+            },
+            {
+              "id": "fotometria_e_radiacao__corpo_negro__lei_de_wien",
+              "label": "Lei de Wien"
+            },
+            {
+              "id": "fotometria_e_radiacao__corpo_negro__lei_de_stefan_boltzmann",
+              "label": "Lei de Stefan-Boltzmann"
+            }
+          ]
+        },
+        {
+          "id": "fotometria_e_radiacao__espectroscopia",
+          "label": "Espectroscopia",
+          "children": [
+            {
+              "id": "fotometria_e_radiacao__espectroscopia__efeito_doppler_redshift_e_blueshift",
+              "label": "Efeito Doppler/Redshift e Blueshift"
+            },
+            {
+              "id": "fotometria_e_radiacao__espectroscopia__leis_de_kirchhoff",
+              "label": "Leis de Kirchhoff"
+            },
+            {
+              "id": "fotometria_e_radiacao__espectroscopia__espectro_eletromagnetico_espectro_das_estrelas",
+              "label": "Espectro Eletromagnético/Espectro das Estrelas"
+            }
+          ]
+        },
+        {
+          "id": "fotometria_e_radiacao__termodinamica",
+          "label": "Termodinâmica",
+          "children": [
+            {
+              "id": "fotometria_e_radiacao__termodinamica__primeira_lei_da_termodinamica",
+              "label": "Primeira Lei da Termodinâmica"
+            },
+            {
+              "id": "fotometria_e_radiacao__termodinamica__teorema_da_equiparticao_de_energia",
+              "label": "Teorema da Equipartição de Energia"
+            },
+            {
+              "id": "fotometria_e_radiacao__termodinamica__processos_termodinamicos",
+              "label": "Processos Termodinâmicos"
+            },
+            {
+              "id": "fotometria_e_radiacao__termodinamica__coeficiente_de_poisson",
+              "label": "Coeficiente de Poisson"
+            },
+            {
+              "id": "fotometria_e_radiacao__termodinamica__gas_de_fotons",
+              "label": "Gás de Fótons"
+            },
+            {
+              "id": "fotometria_e_radiacao__termodinamica__entropia",
+              "label": "Entropia"
+            },
+            {
+              "id": "fotometria_e_radiacao__termodinamica__massa_de_jeans",
+              "label": "Massa de Jeans"
+            },
+            {
+              "id": "fotometria_e_radiacao__termodinamica__livre_caminho_medio",
+              "label": "Livre Caminho Médio"
+            }
+          ]
+        },
+        {
+          "id": "fotometria_e_radiacao__escalas_fotometricas",
+          "label": "Escalas Fotométricas",
+          "children": [
+            {
+              "id": "fotometria_e_radiacao__escalas_fotometricas__brilho_e_luminosidade",
+              "label": "Brilho e Luminosidade"
+            },
+            {
+              "id": "fotometria_e_radiacao__escalas_fotometricas__magnitudes",
+              "label": "Magnitudes",
+              "children": [
+                {
+                  "id": "fotometria_e_radiacao__escalas_fotometricas__magnitudes__magnitude_aparente",
+                  "label": "Magnitude Aparente"
+                },
+                {
+                  "id": "fotometria_e_radiacao__escalas_fotometricas__magnitudes__magnitude_absoluta",
+                  "label": "Magnitude Absoluta"
+                },
+                {
+                  "id": "fotometria_e_radiacao__escalas_fotometricas__magnitudes__modulo_de_distancia",
+                  "label": "Módulo de Distância"
+                },
+                {
+                  "id": "fotometria_e_radiacao__escalas_fotometricas__magnitudes__equacao_de_pogson",
+                  "label": "Equação de Pogson"
+                },
+                {
+                  "id": "fotometria_e_radiacao__escalas_fotometricas__magnitudes__magnitude_superficial",
+                  "label": "Magnitude Superficial"
+                }
+              ]
+            },
+            {
+              "id": "fotometria_e_radiacao__escalas_fotometricas__sistemas_fotometricos",
+              "label": "Sistemas Fotométricos",
+              "children": [
+                {
+                  "id": "fotometria_e_radiacao__escalas_fotometricas__sistemas_fotometricos__indice_de_cor",
+                  "label": "Índice de Cor"
+                },
+                {
+                  "id": "fotometria_e_radiacao__escalas_fotometricas__sistemas_fotometricos__sistema_ubv_bandas_fotometricas",
+                  "label": "Sistema UBV/Bandas Fotométricas"
+                }
+              ]
+            },
+            {
+              "id": "fotometria_e_radiacao__escalas_fotometricas__extincao_interestelar",
+              "label": "Extinção Interestelar"
+            },
+            {
+              "id": "fotometria_e_radiacao__escalas_fotometricas__avermelhamento",
+              "label": "Avermelhamento"
+            },
+            {
+              "id": "fotometria_e_radiacao__escalas_fotometricas__profundidade_optica",
+              "label": "Profundidade Óptica"
+            },
+            {
+              "id": "fotometria_e_radiacao__escalas_fotometricas__fotometria_planetaria",
+              "label": "Fotometria Planetária",
+              "children": [
+                {
+                  "id": "fotometria_e_radiacao__escalas_fotometricas__fotometria_planetaria__albedo",
+                  "label": "Albedo"
+                },
+                {
+                  "id": "fotometria_e_radiacao__escalas_fotometricas__fotometria_planetaria__temperatura_de_um_planeta",
+                  "label": "Temperatura de um Planeta"
+                },
+                {
+                  "id": "fotometria_e_radiacao__escalas_fotometricas__fotometria_planetaria__brilho_da_lua",
+                  "label": "Brilho da Lua"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "astrofisica_estelar",
+      "label": "Astrofísica Estelar",
+      "children": [
+        {
+          "id": "astrofisica_estelar__propriedades_estelares",
+          "label": "Propriedades Estelares",
+          "children": [
+            {
+              "id": "astrofisica_estelar__propriedades_estelares__classificacao_espectral",
+              "label": "Classificação Espectral",
+              "children": [
+                {
+                  "id": "astrofisica_estelar__propriedades_estelares__classificacao_espectral__diagrama_hr_diagrama_de_hertzsprung_russell",
+                  "label": "Diagrama HR/Diagrama de Hertzsprung-Russell"
+                },
+                {
+                  "id": "astrofisica_estelar__propriedades_estelares__classificacao_espectral__classificacao_de_harvard",
+                  "label": "Classificação de Harvard"
+                },
+                {
+                  "id": "astrofisica_estelar__propriedades_estelares__classificacao_espectral__classificacao_de_yerkes",
+                  "label": "Classificação de Yerkes"
+                }
+              ]
+            },
+            {
+              "id": "astrofisica_estelar__propriedades_estelares__estrutura_interna",
+              "label": "Estrutura Interna",
+              "children": [
+                {
+                  "id": "astrofisica_estelar__propriedades_estelares__estrutura_interna__equilibrio_hidrostatico",
+                  "label": "Equilíbrio Hidrostático"
+                },
+                {
+                  "id": "astrofisica_estelar__propriedades_estelares__estrutura_interna__pressao_de_radiacao",
+                  "label": "Pressão de Radiação"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "astrofisica_estelar__evolucao_estelar",
+          "label": "Evolução Estelar",
+          "children": [
+            {
+              "id": "astrofisica_estelar__evolucao_estelar__estagios_estelares",
+              "label": "Estágios Estelares",
+              "children": [
+                {
+                  "id": "astrofisica_estelar__evolucao_estelar__estagios_estelares__formacao_estelar",
+                  "label": "Formação Estelar"
+                },
+                {
+                  "id": "astrofisica_estelar__evolucao_estelar__estagios_estelares__sequencia_principal",
+                  "label": "Sequência Principal"
+                },
+                {
+                  "id": "astrofisica_estelar__evolucao_estelar__estagios_estelares__gigantes_vermelhas",
+                  "label": "Gigantes Vermelhas"
+                }
+              ]
+            },
+            {
+              "id": "astrofisica_estelar__evolucao_estelar__remanescentes",
+              "label": "Remanescentes",
+              "children": [
+                {
+                  "id": "astrofisica_estelar__evolucao_estelar__remanescentes__anas_brancas",
+                  "label": "Anãs Brancas"
+                },
+                {
+                  "id": "astrofisica_estelar__evolucao_estelar__remanescentes__estrelas_de_neutrons",
+                  "label": "Estrelas de Nêutrons"
+                },
+                {
+                  "id": "astrofisica_estelar__evolucao_estelar__remanescentes__buracos_negros",
+                  "label": "Buracos Negros"
+                },
+                {
+                  "id": "astrofisica_estelar__evolucao_estelar__remanescentes__supernovas",
+                  "label": "Supernovas"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sistemas_binarios_e_exoplanetas",
+      "label": "Sistemas Binários e Exoplanetas",
+      "children": [
+        {
+          "id": "sistemas_binarios_e_exoplanetas__massa_reduzida",
+          "label": "Massa Reduzida"
+        },
+        {
+          "id": "sistemas_binarios_e_exoplanetas__binarias",
+          "label": "Binárias",
+          "children": [
+            {
+              "id": "sistemas_binarios_e_exoplanetas__binarias__visuais",
+              "label": "Visuais"
+            },
+            {
+              "id": "sistemas_binarios_e_exoplanetas__binarias__astrometricas",
+              "label": "Astrométricas"
+            },
+            {
+              "id": "sistemas_binarios_e_exoplanetas__binarias__espectroscopicas",
+              "label": "Espectroscópicas"
+            },
+            {
+              "id": "sistemas_binarios_e_exoplanetas__binarias__eclipsantes",
+              "label": "Eclipsantes"
+            },
+            {
+              "id": "sistemas_binarios_e_exoplanetas__binarias__funcao_de_massa",
+              "label": "Função de Massa"
+            }
+          ]
+        },
+        {
+          "id": "sistemas_binarios_e_exoplanetas__exoplanetas",
+          "label": "Exoplanetas",
+          "children": [
+            {
+              "id": "sistemas_binarios_e_exoplanetas__exoplanetas__transito",
+              "label": "Trânsito"
+            },
+            {
+              "id": "sistemas_binarios_e_exoplanetas__exoplanetas__velocidade_radial",
+              "label": "Velocidade Radial"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "analise_de_dados",
+      "label": "Análise de Dados",
+      "children": [
+        {
+          "id": "analise_de_dados__estatistica",
+          "label": "Estatística",
+          "children": [
+            {
+              "id": "analise_de_dados__estatistica__media",
+              "label": "Média"
+            },
+            {
+              "id": "analise_de_dados__estatistica__moda",
+              "label": "Moda"
+            },
+            {
+              "id": "analise_de_dados__estatistica__mediana",
+              "label": "Mediana"
+            },
+            {
+              "id": "analise_de_dados__estatistica__quartis",
+              "label": "Quartis"
+            },
+            {
+              "id": "analise_de_dados__estatistica__desvio_padrao",
+              "label": "Desvio Padrão",
+              "children": [
+                {
+                  "id": "analise_de_dados__estatistica__desvio_padrao__desvio_padrao_da_media",
+                  "label": "Desvio Padrão da Média"
+                }
+              ]
+            },
+            {
+              "id": "analise_de_dados__estatistica__algarismos_significativos",
+              "label": "Algarismos Significativos"
+            }
+          ]
+        },
+        {
+          "id": "analise_de_dados__incerteza",
+          "label": "Incerteza",
+          "children": [
+            {
+              "id": "analise_de_dados__incerteza__propagacao",
+              "label": "Propagação"
+            }
+          ]
+        },
+        {
+          "id": "analise_de_dados__ajustes_e_graficos",
+          "label": "Ajustes e Gráficos",
+          "children": [
+            {
+              "id": "analise_de_dados__ajustes_e_graficos__regressao_linear",
+              "label": "Regressão Linear"
+            },
+            {
+              "id": "analise_de_dados__ajustes_e_graficos__histograma",
+              "label": "Histograma"
+            },
+            {
+              "id": "analise_de_dados__ajustes_e_graficos__grafico_polar",
+              "label": "Gráfico polar"
+            },
+            {
+              "id": "analise_de_dados__ajustes_e_graficos__grafico_log_log",
+              "label": "Gráfico Log-Log"
+            },
+            {
+              "id": "analise_de_dados__ajustes_e_graficos__grafico_semi_log",
+              "label": "Gráfico Semi-Log"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "interpretacao",
+      "label": "Interpretação",
+      "children": [
+        {
+          "id": "interpretacao__interpretacao_de_texto_e_imagem",
+          "label": "Interpretação de Texto e Imagem"
+        },
+        {
+          "id": "interpretacao__interpretacao_de_graficos_e_tabelas",
+          "label": "Interpretação de Gráficos e Tabelas"
+        }
+      ]
+    },
+    {
+      "id": "matematica",
+      "label": "Matemática",
+      "children": [
+        {
+          "id": "matematica__aproximacoes",
+          "label": "Aproximações",
+          "children": [
+            {
+              "id": "matematica__aproximacoes__aproximacao_binomial",
+              "label": "Aproximação Binomial"
+            },
+            {
+              "id": "matematica__aproximacoes__aproximacao_trigonometrica",
+              "label": "Aproximação Trigonométrica"
+            }
+          ]
+        },
+        {
+          "id": "matematica__vetores",
+          "label": "Vetores",
+          "children": [
+            {
+              "id": "matematica__vetores__decomposicao_vetorial",
+              "label": "Decomposição vetorial"
+            },
+            {
+              "id": "matematica__vetores__produto_escalar",
+              "label": "Produto Escalar"
+            },
+            {
+              "id": "matematica__vetores__produto_vetorial",
+              "label": "Produto Vetorial"
+            },
+            {
+              "id": "matematica__vetores__sistemas_de_coordenadas",
+              "label": "Sistemas de Coordenadas",
+              "children": [
+                {
+                  "id": "matematica__vetores__sistemas_de_coordenadas__conversao_de_coordenadas_cartesianas_e_esfericas_e_polares",
+                  "label": "Conversão de Coordenadas Cartesianas e Esféricas e Polares"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "matematica__matematica_elementar_matematica_elementar",
+          "label": "Matemática Elementar/Matemática Elementar",
+          "children": [
+            {
+              "id": "matematica__matematica_elementar_matematica_elementar__logaritmo",
+              "label": "Logaritmo"
+            },
+            {
+              "id": "matematica__matematica_elementar_matematica_elementar__notacao_cientifica",
+              "label": "Notação Científica"
+            },
+            {
+              "id": "matematica__matematica_elementar_matematica_elementar__potenciacao",
+              "label": "Potenciação"
+            },
+            {
+              "id": "matematica__matematica_elementar_matematica_elementar__conversao_de_unidades",
+              "label": "Conversão de unidades"
+            },
+            {
+              "id": "matematica__matematica_elementar_matematica_elementar__trigonometria",
+              "label": "Trigonometria"
+            },
+            {
+              "id": "matematica__matematica_elementar_matematica_elementar__razao_proporcao_porcentagem_regra_de_tres",
+              "label": "Razão/Proporção/Porcentagem/Regra de Três"
+            },
+            {
+              "id": "matematica__matematica_elementar_matematica_elementar__equacoes_do_primeiro_e_segundo_grau",
+              "label": "Equações do primeiro e segundo grau"
+            }
+          ]
+        },
+        {
+          "id": "matematica__analise_dimensional",
+          "label": "Análise Dimensional"
+        },
+        {
+          "id": "matematica__geometria",
+          "label": "Geometria",
+          "children": [
+            {
+              "id": "matematica__geometria__trigonometria",
+              "label": "Trigonometria",
+              "children": [
+                {
+                  "id": "matematica__geometria__trigonometria__relacoes_trigonometricas",
+                  "label": "Relações Trigonométricas"
+                },
+                {
+                  "id": "matematica__geometria__trigonometria__lei_dos_senos_e_lei_dos_cossenos",
+                  "label": "Lei dos Senos e Lei dos Cossenos"
+                }
+              ]
+            },
+            {
+              "id": "matematica__geometria__areas_e_volumes",
+              "label": "Áreas e Volumes"
+            },
+            {
+              "id": "matematica__geometria__semelhanca_de_triangulos",
+              "label": "Semelhança de Triângulos"
+            },
+            {
+              "id": "matematica__geometria__teorema_de_pitagoras",
+              "label": "Teorema de Pitágoras"
+            },
+            {
+              "id": "matematica__geometria__geometria_espacial",
+              "label": "Geometria Espacial"
+            }
+          ]
+        },
+        {
+          "id": "matematica__calculo",
+          "label": "Cálculo",
+          "children": [
+            {
+              "id": "matematica__calculo__limites",
+              "label": "Limites"
+            },
+            {
+              "id": "matematica__calculo__derivadas",
+              "label": "Derivadas"
+            },
+            {
+              "id": "matematica__calculo__integrais",
+              "label": "Integrais"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "optica_e_instrumentacao_astronomia_observacional",
+      "label": "Óptica e Instrumentação/Astronomia Observacional",
+      "children": [
+        {
+          "id": "optica_e_instrumentacao_astronomia_observacional__optica_geometrica_e_fisica",
+          "label": "Óptica Geométrica e Física",
+          "children": [
+            {
+              "id": "optica_e_instrumentacao_astronomia_observacional__optica_geometrica_e_fisica__principios_opticos",
+              "label": "Princípios Ópticos",
+              "children": [
+                {
+                  "id": "optica_e_instrumentacao_astronomia_observacional__optica_geometrica_e_fisica__principios_opticos__luz_reflexao_e_refracao",
+                  "label": "Luz/Reflexão e Refração"
+                },
+                {
+                  "id": "optica_e_instrumentacao_astronomia_observacional__optica_geometrica_e_fisica__principios_opticos__difracao_da_luz",
+                  "label": "Difração da Luz"
+                },
+                {
+                  "id": "optica_e_instrumentacao_astronomia_observacional__optica_geometrica_e_fisica__principios_opticos__lei_de_snell",
+                  "label": "Lei de Snell"
+                }
+              ]
+            },
+            {
+              "id": "optica_e_instrumentacao_astronomia_observacional__optica_geometrica_e_fisica__elementos_opticos",
+              "label": "Elementos Ópticos",
+              "children": [
+                {
+                  "id": "optica_e_instrumentacao_astronomia_observacional__optica_geometrica_e_fisica__elementos_opticos__espelhos_planos_e_esfericos",
+                  "label": "Espelhos Planos e Esféricos"
+                },
+                {
+                  "id": "optica_e_instrumentacao_astronomia_observacional__optica_geometrica_e_fisica__elementos_opticos__dioptros_e_lentes",
+                  "label": "Dioptros e Lentes"
+                },
+                {
+                  "id": "optica_e_instrumentacao_astronomia_observacional__optica_geometrica_e_fisica__elementos_opticos__formacao_de_imagens",
+                  "label": "Formação de Imagens"
+                }
+              ]
+            },
+            {
+              "id": "optica_e_instrumentacao_astronomia_observacional__optica_geometrica_e_fisica__fenomenos_opticos",
+              "label": "Fenômenos Ópticos",
+              "children": [
+                {
+                  "id": "optica_e_instrumentacao_astronomia_observacional__optica_geometrica_e_fisica__fenomenos_opticos__aberracoes_opticas",
+                  "label": "Aberrações Ópticas",
+                  "children": [
+                    {
+                      "id": "optica_e_instrumentacao_astronomia_observacional__optica_geometrica_e_fisica__fenomenos_opticos__aberracoes_opticas__aberracao_cromatica",
+                      "label": "Aberração Cromática"
+                    },
+                    {
+                      "id": "optica_e_instrumentacao_astronomia_observacional__optica_geometrica_e_fisica__fenomenos_opticos__aberracoes_opticas__aberracao_esferica",
+                      "label": "Aberração Esférica"
+                    }
+                  ]
+                },
+                {
+                  "id": "optica_e_instrumentacao_astronomia_observacional__optica_geometrica_e_fisica__fenomenos_opticos__refracao_atmosferica",
+                  "label": "Refração Atmosférica"
+                },
+                {
+                  "id": "optica_e_instrumentacao_astronomia_observacional__optica_geometrica_e_fisica__fenomenos_opticos__extincao_atmosferica",
+                  "label": "Extinção Atmosférica"
+                },
+                {
+                  "id": "optica_e_instrumentacao_astronomia_observacional__optica_geometrica_e_fisica__fenomenos_opticos__seeing_cintilacao",
+                  "label": "Seeing / Cintilação"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "optica_e_instrumentacao_astronomia_observacional__telescopios",
+          "label": "Telescópios",
+          "children": [
+            {
+              "id": "optica_e_instrumentacao_astronomia_observacional__telescopios__tipos_de_telescopios",
+              "label": "Tipos de Telescópios",
+              "children": [
+                {
+                  "id": "optica_e_instrumentacao_astronomia_observacional__telescopios__tipos_de_telescopios__refratores",
+                  "label": "Refratores"
+                },
+                {
+                  "id": "optica_e_instrumentacao_astronomia_observacional__telescopios__tipos_de_telescopios__refletores",
+                  "label": "Refletores"
+                },
+                {
+                  "id": "optica_e_instrumentacao_astronomia_observacional__telescopios__tipos_de_telescopios__compostos_catadioptricos",
+                  "label": "Compostos/Catadióptricos"
+                },
+                {
+                  "id": "optica_e_instrumentacao_astronomia_observacional__telescopios__tipos_de_telescopios__radiotelescopios",
+                  "label": "Radiotelescópios"
+                }
+              ]
+            },
+            {
+              "id": "optica_e_instrumentacao_astronomia_observacional__telescopios__montagens",
+              "label": "Montagens",
+              "children": [
+                {
+                  "id": "optica_e_instrumentacao_astronomia_observacional__telescopios__montagens__altazimutal",
+                  "label": "Altazimutal"
+                },
+                {
+                  "id": "optica_e_instrumentacao_astronomia_observacional__telescopios__montagens__equatorial",
+                  "label": "Equatorial"
+                },
+                {
+                  "id": "optica_e_instrumentacao_astronomia_observacional__telescopios__montagens__acessorios",
+                  "label": "Acessórios"
+                }
+              ]
+            },
+            {
+              "id": "optica_e_instrumentacao_astronomia_observacional__telescopios__caracteristicas_fisicas_de_telescopios",
+              "label": "Características Físicas de Telescópios",
+              "children": [
+                {
+                  "id": "optica_e_instrumentacao_astronomia_observacional__telescopios__caracteristicas_fisicas_de_telescopios__distancia_focal",
+                  "label": "Distância Focal"
+                },
+                {
+                  "id": "optica_e_instrumentacao_astronomia_observacional__telescopios__caracteristicas_fisicas_de_telescopios__aumento_ampliacao",
+                  "label": "Aumento/Ampliação"
+                },
+                {
+                  "id": "optica_e_instrumentacao_astronomia_observacional__telescopios__caracteristicas_fisicas_de_telescopios__razao_focal",
+                  "label": "Razão Focal"
+                },
+                {
+                  "id": "optica_e_instrumentacao_astronomia_observacional__telescopios__caracteristicas_fisicas_de_telescopios__magnitude_limite",
+                  "label": "Magnitude Limite"
+                },
+                {
+                  "id": "optica_e_instrumentacao_astronomia_observacional__telescopios__caracteristicas_fisicas_de_telescopios__saida_de_pupila",
+                  "label": "Saída de Pupila"
+                },
+                {
+                  "id": "optica_e_instrumentacao_astronomia_observacional__telescopios__caracteristicas_fisicas_de_telescopios__escala_de_placa",
+                  "label": "Escala de Placa"
+                },
+                {
+                  "id": "optica_e_instrumentacao_astronomia_observacional__telescopios__caracteristicas_fisicas_de_telescopios__limites_e_resolucao_angular_criterio_de_rayleigh",
+                  "label": "Limites e Resolução Angular/Critério de Rayleigh"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "optica_e_instrumentacao_astronomia_observacional__detectores",
+          "label": "Detectores",
+          "children": [
+            {
+              "id": "optica_e_instrumentacao_astronomia_observacional__detectores__ccd_e_cmos",
+              "label": "CCD e CMOS",
+              "children": [
+                {
+                  "id": "optica_e_instrumentacao_astronomia_observacional__detectores__ccd_e_cmos__eficiencia_quantica",
+                  "label": "Eficiência Quântica"
+                },
+                {
+                  "id": "optica_e_instrumentacao_astronomia_observacional__detectores__ccd_e_cmos__contagem",
+                  "label": "Contagem"
+                }
+              ]
+            },
+            {
+              "id": "optica_e_instrumentacao_astronomia_observacional__detectores__razao_sinal_ruido",
+              "label": "Razão Sinal-Ruído",
+              "children": [
+                {
+                  "id": "optica_e_instrumentacao_astronomia_observacional__detectores__razao_sinal_ruido__ruido_termico",
+                  "label": "Ruído Térmico"
+                },
+                {
+                  "id": "optica_e_instrumentacao_astronomia_observacional__detectores__razao_sinal_ruido__ruido_de_leitura",
+                  "label": "Ruído de Leitura"
+                },
+                {
+                  "id": "optica_e_instrumentacao_astronomia_observacional__detectores__razao_sinal_ruido__distribuicao_de_poisson",
+                  "label": "Distribuição de Poisson"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "optica_e_instrumentacao_astronomia_observacional__interferometria",
+          "label": "Interferometria"
+        }
+      ]
+    },
+    {
+      "id": "observacional",
+      "label": "Observacional",
+      "children": [
+        {
+          "id": "observacional__carta_celeste",
+          "label": "Carta Celeste",
+          "children": [
+            {
+              "id": "observacional__carta_celeste__projecao_estereografica_projecao_azimutal_conforme",
+              "label": "Projeção Estereográfica/Projeção Azimutal Conforme"
+            },
+            {
+              "id": "observacional__carta_celeste__projecao_de_airy_projecao_azimutal_de_airy",
+              "label": "Projeção de Airy/Projeção Azimutal de Airy"
+            },
+            {
+              "id": "observacional__carta_celeste__projecao_de_mercator_projecao_cilindrica_conforme",
+              "label": "Projeção de Mercator/Projeção Cilíndrica Conforme"
+            },
+            {
+              "id": "observacional__carta_celeste__projecao_de_peters_projecao_de_gall_peters",
+              "label": "Projeção de Peters/Projeção de Gall-Peters"
+            },
+            {
+              "id": "observacional__carta_celeste__projecao_ortogonal_projecao_azimutal_ortografica",
+              "label": "Projeção Ortogonal/Projeção Azimutal Ortográfica"
+            },
+            {
+              "id": "observacional__carta_celeste__projecao_gnomonica_projecao_central",
+              "label": "Projeção Gnomônica/Projeção Central"
+            },
+            {
+              "id": "observacional__carta_celeste__projecao_azimutal_equidistante_projecao_de_postel",
+              "label": "Projeção Azimutal Equidistante/Projeção de Postel"
+            },
+            {
+              "id": "observacional__carta_celeste__projecao_de_mollweide_projecao_eliptica",
+              "label": "Projeção de Mollweide/Projeção Elíptica"
+            },
+            {
+              "id": "observacional__carta_celeste__projecao_de_hammer_aitoff_projecao_equatorial_de_hammer",
+              "label": "Projeção de Hammer-Aitoff/Projeção Equatorial de Hammer"
+            },
+            {
+              "id": "observacional__carta_celeste__projecao_sinusoidal_projecao_de_sanson_flamsteed",
+              "label": "Projeção Sinusoidal/Projeção de Sanson-Flamsteed"
+            }
+          ]
+        },
+        {
+          "id": "observacional__reconhecimento_de_ceu",
+          "label": "Reconhecimento de Céu",
+          "children": [
+            {
+              "id": "observacional__reconhecimento_de_ceu__movimento_diurno_dos_astros",
+              "label": "Movimento Diurno dos Astros"
+            },
+            {
+              "id": "observacional__reconhecimento_de_ceu__constelacoes",
+              "label": "Constelações"
+            },
+            {
+              "id": "observacional__reconhecimento_de_ceu__objetos_de_ceu_profundo_dso_s",
+              "label": "Objetos de Céu Profundo (DSO's)"
+            },
+            {
+              "id": "observacional__reconhecimento_de_ceu__estrelas",
+              "label": "Estrelas"
+            },
+            {
+              "id": "observacional__reconhecimento_de_ceu__tracados",
+              "label": "Traçados"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sistema_solar_astronomia_planetaria",
+      "label": "Sistema Solar/Astronomia Planetária",
+      "children": [
+        {
+          "id": "sistema_solar_astronomia_planetaria__unidades_astronomicas",
+          "label": "Unidades Astronômicas",
+          "children": [
+            {
+              "id": "sistema_solar_astronomia_planetaria__unidades_astronomicas__ano_luz_segundo_luz_minuto_luz",
+              "label": "Ano-luz/Segundo-luz/Minuto-luz"
+            },
+            {
+              "id": "sistema_solar_astronomia_planetaria__unidades_astronomicas__unidade_astronomica",
+              "label": "Unidade Astronômica"
+            },
+            {
+              "id": "sistema_solar_astronomia_planetaria__unidades_astronomicas__parsec",
+              "label": "Parsec"
+            }
+          ]
+        },
+        {
+          "id": "sistema_solar_astronomia_planetaria__sol",
+          "label": "Sol",
+          "children": [
+            {
+              "id": "sistema_solar_astronomia_planetaria__sol__atividade_solar",
+              "label": "Atividade Solar"
+            },
+            {
+              "id": "sistema_solar_astronomia_planetaria__sol__vento_solar",
+              "label": "Vento Solar"
+            }
+          ]
+        },
+        {
+          "id": "sistema_solar_astronomia_planetaria__planetas_caracteristicas_gerais_dos_planetas",
+          "label": "Planetas/Características Gerais dos Planetas",
+          "children": [
+            {
+              "id": "sistema_solar_astronomia_planetaria__planetas_caracteristicas_gerais_dos_planetas__composicao_planetaria",
+              "label": "Composição Planetária"
+            },
+            {
+              "id": "sistema_solar_astronomia_planetaria__planetas_caracteristicas_gerais_dos_planetas__translacao_planetaria",
+              "label": "Translação Planetária"
+            },
+            {
+              "id": "sistema_solar_astronomia_planetaria__planetas_caracteristicas_gerais_dos_planetas__atmosferas",
+              "label": "Atmosferas"
+            },
+            {
+              "id": "sistema_solar_astronomia_planetaria__planetas_caracteristicas_gerais_dos_planetas__zonas_habitaveis",
+              "label": "Zonas Habitáveis"
+            }
+          ]
+        },
+        {
+          "id": "sistema_solar_astronomia_planetaria__terra",
+          "label": "Terra",
+          "children": [
+            {
+              "id": "sistema_solar_astronomia_planetaria__terra__translacao_da_terra",
+              "label": "Translação da Terra"
+            },
+            {
+              "id": "sistema_solar_astronomia_planetaria__terra__rotacao_da_terra",
+              "label": "Rotação da Terra"
+            },
+            {
+              "id": "sistema_solar_astronomia_planetaria__terra__atmosfera_terrestre",
+              "label": "Atmosfera Terrestre"
+            },
+            {
+              "id": "sistema_solar_astronomia_planetaria__terra__biosfera_ciclo_da_agua",
+              "label": "Biosfera/Ciclo da Água"
+            }
+          ]
+        },
+        {
+          "id": "sistema_solar_astronomia_planetaria__satelites_naturais_e_artificiais_caracteristicas_gerais_dos_satelites",
+          "label": "Satélites Naturais e Artificiais/Características Gerais dos Satélites"
+        },
+        {
+          "id": "sistema_solar_astronomia_planetaria__lua",
+          "label": "Lua",
+          "children": [
+            {
+              "id": "sistema_solar_astronomia_planetaria__lua__eclipses",
+              "label": "Eclipses"
+            },
+            {
+              "id": "sistema_solar_astronomia_planetaria__lua__fases_da_lua",
+              "label": "Fases da Lua"
+            }
+          ]
+        },
+        {
+          "id": "sistema_solar_astronomia_planetaria__corpos_menores",
+          "label": "Corpos Menores",
+          "children": [
+            {
+              "id": "sistema_solar_astronomia_planetaria__corpos_menores__asteroides",
+              "label": "Asteroides"
+            },
+            {
+              "id": "sistema_solar_astronomia_planetaria__corpos_menores__cometas",
+              "label": "Cometas"
+            },
+            {
+              "id": "sistema_solar_astronomia_planetaria__corpos_menores__meteoros",
+              "label": "Meteoros"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "astronomia_de_posicao_astronomia_esferica_astrometria",
+      "label": "Astronomia de Posição/Astronomia Esférica/Astrometria",
+      "children": [
+        {
+          "id": "astronomia_de_posicao_astronomia_esferica_astrometria__esfera_celeste_elementos_da_esfera_celeste",
+          "label": "Esfera Celeste/Elementos da Esfera Celeste"
+        },
+        {
+          "id": "astronomia_de_posicao_astronomia_esferica_astrometria__sistemas_de_coordenadas",
+          "label": "Sistemas de Coordenadas",
+          "children": [
+            {
+              "id": "astronomia_de_posicao_astronomia_esferica_astrometria__sistemas_de_coordenadas__coordenadas_geograficas_latitude_e_longitude",
+              "label": "Coordenadas Geográficas / Latitude e Longitude"
+            },
+            {
+              "id": "astronomia_de_posicao_astronomia_esferica_astrometria__sistemas_de_coordenadas__coordenadas_horizontais_azimute_e_altura",
+              "label": "Coordenadas Horizontais / Azimute e Altura"
+            },
+            {
+              "id": "astronomia_de_posicao_astronomia_esferica_astrometria__sistemas_de_coordenadas__coordenadas_equatoriais_ascensao_reta_e_declinacao",
+              "label": "Coordenadas Equatoriais / Ascensão Reta e Declinação"
+            },
+            {
+              "id": "astronomia_de_posicao_astronomia_esferica_astrometria__sistemas_de_coordenadas__coordenadas_horarias_angulo_horario",
+              "label": "Coordenadas Horárias / Ângulo Horário"
+            },
+            {
+              "id": "astronomia_de_posicao_astronomia_esferica_astrometria__sistemas_de_coordenadas__coordenadas_eclipticas",
+              "label": "Coordenadas Eclípticas"
+            },
+            {
+              "id": "astronomia_de_posicao_astronomia_esferica_astrometria__sistemas_de_coordenadas__coordenadas_galacticas",
+              "label": "Coordenadas Galácticas"
+            },
+            {
+              "id": "astronomia_de_posicao_astronomia_esferica_astrometria__sistemas_de_coordenadas__coordenadas_supergalacticas",
+              "label": "Coordenadas Supergalácticas "
+            }
+          ]
+        },
+        {
+          "id": "astronomia_de_posicao_astronomia_esferica_astrometria__trigonometria_esferica",
+          "label": "Trigonometria Esférica",
+          "children": [
+            {
+              "id": "astronomia_de_posicao_astronomia_esferica_astrometria__trigonometria_esferica__triangulo_de_posicao_triangulo_de_navegacao_triangulo_pzx_triangulo_da_paz",
+              "label": "Triângulo de Posição/Triângulo de Navegação/Triângulo PZX/Triângulo da PAZ"
+            },
+            {
+              "id": "astronomia_de_posicao_astronomia_esferica_astrometria__trigonometria_esferica__conversao_de_coordenadas",
+              "label": "Conversão de Coordenadas"
+            }
+          ]
+        },
+        {
+          "id": "astronomia_de_posicao_astronomia_esferica_astrometria__escala_de_tempo",
+          "label": "Escala de Tempo",
+          "children": [
+            {
+              "id": "astronomia_de_posicao_astronomia_esferica_astrometria__escala_de_tempo__tempo_solar",
+              "label": "Tempo Solar",
+              "children": [
+                {
+                  "id": "astronomia_de_posicao_astronomia_esferica_astrometria__escala_de_tempo__tempo_solar__tempo_solar_aparente",
+                  "label": "Tempo Solar Aparente"
+                },
+                {
+                  "id": "astronomia_de_posicao_astronomia_esferica_astrometria__escala_de_tempo__tempo_solar__tempo_solar_medio",
+                  "label": "Tempo Solar Médio"
+                },
+                {
+                  "id": "astronomia_de_posicao_astronomia_esferica_astrometria__escala_de_tempo__tempo_solar__equacao_do_tempo",
+                  "label": "Equação do Tempo"
+                },
+                {
+                  "id": "astronomia_de_posicao_astronomia_esferica_astrometria__escala_de_tempo__tempo_solar__analema",
+                  "label": "Analema"
+                }
+              ]
+            },
+            {
+              "id": "astronomia_de_posicao_astronomia_esferica_astrometria__escala_de_tempo__tempo_sideral",
+              "label": "Tempo Sideral",
+              "children": [
+                {
+                  "id": "astronomia_de_posicao_astronomia_esferica_astrometria__escala_de_tempo__tempo_sideral__tempo_sideral_local",
+                  "label": "Tempo Sideral Local"
+                },
+                {
+                  "id": "astronomia_de_posicao_astronomia_esferica_astrometria__escala_de_tempo__tempo_sideral__tempo_sideral_de_greenwich",
+                  "label": "Tempo Sideral de Greenwich"
+                }
+              ]
+            },
+            {
+              "id": "astronomia_de_posicao_astronomia_esferica_astrometria__escala_de_tempo__fusos_horarios",
+              "label": "Fusos Horários"
+            },
+            {
+              "id": "astronomia_de_posicao_astronomia_esferica_astrometria__escala_de_tempo__calendarios",
+              "label": "Calendários",
+              "children": [
+                {
+                  "id": "astronomia_de_posicao_astronomia_esferica_astrometria__escala_de_tempo__calendarios__ano_bissexto",
+                  "label": "Ano Bissexto"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "astronomia_de_posicao_astronomia_esferica_astrometria__estacoes_do_ano_obliquidade_da_terra",
+          "label": "Estações do Ano/Obliquidade da Terra  ",
+          "children": [
+            {
+              "id": "astronomia_de_posicao_astronomia_esferica_astrometria__estacoes_do_ano_obliquidade_da_terra__equinocios_e_solsticios",
+              "label": "Equinócios e Solstícios"
+            }
+          ]
+        },
+        {
+          "id": "astronomia_de_posicao_astronomia_esferica_astrometria__precessao",
+          "label": "Precessão"
+        },
+        {
+          "id": "astronomia_de_posicao_astronomia_esferica_astrometria__nutacao",
+          "label": "Nutação"
+        },
+        {
+          "id": "astronomia_de_posicao_astronomia_esferica_astrometria__lunacao",
+          "label": "Lunação"
+        },
+        {
+          "id": "astronomia_de_posicao_astronomia_esferica_astrometria__periodo_sinodico_e_sideral",
+          "label": "Período Sinódico e Sideral"
+        },
+        {
+          "id": "astronomia_de_posicao_astronomia_esferica_astrometria__paralaxe",
+          "label": "Paralaxe"
+        },
+        {
+          "id": "astronomia_de_posicao_astronomia_esferica_astrometria__relogio_de_sol",
+          "label": "Relógio de Sol",
+          "children": [
+            {
+              "id": "astronomia_de_posicao_astronomia_esferica_astrometria__relogio_de_sol__relogio_de_sol_vertical",
+              "label": "Relógio de Sol Vertical"
+            },
+            {
+              "id": "astronomia_de_posicao_astronomia_esferica_astrometria__relogio_de_sol__relogio_de_sol_horizontal",
+              "label": "Relógio de Sol Horizontal"
+            },
+            {
+              "id": "astronomia_de_posicao_astronomia_esferica_astrometria__relogio_de_sol__relogio_de_sol_declinante",
+              "label": "Relógio de Sol Declinante"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "fisica",
+      "label": "Física",
+      "children": [
+        {
+          "id": "fisica__cinematica",
+          "label": "Cinemática",
+          "children": [
+            {
+              "id": "fisica__cinematica__velocidade_media",
+              "label": "Velocidade Média"
+            }
+          ]
+        },
+        {
+          "id": "fisica__leis_de_newton",
+          "label": "Leis de Newton"
+        },
+        {
+          "id": "fisica__momento_angular",
+          "label": "Momento Angular"
+        },
+        {
+          "id": "fisica__movimento_harmonico_simples_mhs",
+          "label": "Movimento Harmônico Simples/MHS"
+        }
+      ]
+    },
+    {
+      "id": "mecanica_celeste_dinamica",
+      "label": "Mecânica Celeste/Dinâmica",
+      "children": [
+        {
+          "id": "mecanica_celeste_dinamica__astronautica",
+          "label": "Astronáutica",
+          "children": [
+            {
+              "id": "mecanica_celeste_dinamica__astronautica__foguetes_caracteristicas_gerais_dos_foguetes",
+              "label": "Foguetes/Características Gerais dos Foguetes",
+              "children": [
+                {
+                  "id": "mecanica_celeste_dinamica__astronautica__foguetes_caracteristicas_gerais_dos_foguetes__equacao_do_foguete",
+                  "label": "Equação do Foguete"
+                },
+                {
+                  "id": "mecanica_celeste_dinamica__astronautica__foguetes_caracteristicas_gerais_dos_foguetes__propelente",
+                  "label": "Propelente"
+                },
+                {
+                  "id": "mecanica_celeste_dinamica__astronautica__foguetes_caracteristicas_gerais_dos_foguetes__obafog_mobfog",
+                  "label": "OBAFOG/MOBFOG"
+                }
+              ]
+            },
+            {
+              "id": "mecanica_celeste_dinamica__astronautica__orbitas_artificiais",
+              "label": "Órbitas Artificiais",
+              "children": [
+                {
+                  "id": "mecanica_celeste_dinamica__astronautica__orbitas_artificiais__geoestacionaria",
+                  "label": "Geoestacionária"
+                },
+                {
+                  "id": "mecanica_celeste_dinamica__astronautica__orbitas_artificiais__heliossincrona",
+                  "label": "Heliossíncrona"
+                }
+              ]
+            },
+            {
+              "id": "mecanica_celeste_dinamica__astronautica__transferencia_orbital_manobras",
+              "label": "Transferência Orbital/Manobras",
+              "children": [
+                {
+                  "id": "mecanica_celeste_dinamica__astronautica__transferencia_orbital_manobras__transferencia_de_hohmann",
+                  "label": "Transferência de Hohmann"
+                },
+                {
+                  "id": "mecanica_celeste_dinamica__astronautica__transferencia_orbital_manobras__transferencia_bi_eliptica",
+                  "label": "Transferência Bi-elíptica"
+                },
+                {
+                  "id": "mecanica_celeste_dinamica__astronautica__transferencia_orbital_manobras__estilingue_gravitacional",
+                  "label": "Estilingue Gravitacional"
+                }
+              ]
+            },
+            {
+              "id": "mecanica_celeste_dinamica__astronautica__historia_da_exploracao_espacial",
+              "label": "História da Exploração Espacial",
+              "children": [
+                {
+                  "id": "mecanica_celeste_dinamica__astronautica__historia_da_exploracao_espacial__novo_assunto",
+                  "label": "Novo Assunto"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "mecanica_celeste_dinamica__gravitacao_gravidade",
+          "label": "Gravitação/Gravidade",
+          "children": [
+            {
+              "id": "mecanica_celeste_dinamica__gravitacao_gravidade__sistemas_de_multiplos_corpos",
+              "label": "Sistemas de Múltiplos Corpos",
+              "children": [
+                {
+                  "id": "mecanica_celeste_dinamica__gravitacao_gravidade__sistemas_de_multiplos_corpos__centro_de_massa",
+                  "label": "Centro de Massa"
+                },
+                {
+                  "id": "mecanica_celeste_dinamica__gravitacao_gravidade__sistemas_de_multiplos_corpos__pontos_de_lagrange",
+                  "label": "Pontos de Lagrange"
+                },
+                {
+                  "id": "mecanica_celeste_dinamica__gravitacao_gravidade__sistemas_de_multiplos_corpos__forcas_de_mare",
+                  "label": "Forças de Maré",
+                  "children": [
+                    {
+                      "id": "mecanica_celeste_dinamica__gravitacao_gravidade__sistemas_de_multiplos_corpos__forcas_de_mare__limite_de_roche",
+                      "label": "Limite de Roche"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "mecanica_celeste_dinamica__gravitacao_gravidade__potencial_gravitacional",
+              "label": "Potencial Gravitacional",
+              "children": [
+                {
+                  "id": "mecanica_celeste_dinamica__gravitacao_gravidade__potencial_gravitacional__equacao_de_binet",
+                  "label": "Equação de Binet"
+                },
+                {
+                  "id": "mecanica_celeste_dinamica__gravitacao_gravidade__potencial_gravitacional__teorema_do_virial",
+                  "label": "Teorema do Virial"
+                },
+                {
+                  "id": "mecanica_celeste_dinamica__gravitacao_gravidade__potencial_gravitacional__energia_orbital",
+                  "label": "Energia Orbital"
+                },
+                {
+                  "id": "mecanica_celeste_dinamica__gravitacao_gravidade__potencial_gravitacional__potencial_efetivo",
+                  "label": "Potencial Efetivo"
+                }
+              ]
+            },
+            {
+              "id": "mecanica_celeste_dinamica__gravitacao_gravidade__forca_gravitacional_aceleracao_gravitacional",
+              "label": "Força Gravitacional/Aceleração Gravitacional",
+              "children": [
+                {
+                  "id": "mecanica_celeste_dinamica__gravitacao_gravidade__forca_gravitacional_aceleracao_gravitacional__lei_da_gravitacao_universal",
+                  "label": "Lei da Gravitação Universal"
+                },
+                {
+                  "id": "mecanica_celeste_dinamica__gravitacao_gravidade__forca_gravitacional_aceleracao_gravitacional__lei_de_gauss_para_gravitacao",
+                  "label": "Lei de Gauss para Gravitação"
+                }
+              ]
+            },
+            {
+              "id": "mecanica_celeste_dinamica__gravitacao_gravidade__velocidade_de_escape",
+              "label": "Velocidade de Escape",
+              "children": [
+                {
+                  "id": "mecanica_celeste_dinamica__gravitacao_gravidade__velocidade_de_escape__raio_de_schwarzschild",
+                  "label": "Raio de Schwarzschild"
+                }
+              ]
+            },
+            {
+              "id": "mecanica_celeste_dinamica__gravitacao_gravidade__velocidade_orbital_vis_viva",
+              "label": "Velocidade Orbital/Vis Viva"
+            },
+            {
+              "id": "mecanica_celeste_dinamica__gravitacao_gravidade__lente_gravitacional",
+              "label": "Lente Gravitacional"
+            }
+          ]
+        },
+        {
+          "id": "mecanica_celeste_dinamica__dinamica_orbital_orbitas",
+          "label": "Dinâmica Orbital/Órbitas",
+          "children": [
+            {
+              "id": "mecanica_celeste_dinamica__dinamica_orbital_orbitas__orbita_parabolica",
+              "label": "Órbita Parabólica"
+            },
+            {
+              "id": "mecanica_celeste_dinamica__dinamica_orbital_orbitas__orbita_hiperbolica",
+              "label": "Órbita Hiperbólica"
+            },
+            {
+              "id": "mecanica_celeste_dinamica__dinamica_orbital_orbitas__leis_de_kepler",
+              "label": "Leis de Kepler",
+              "children": [
+                {
+                  "id": "mecanica_celeste_dinamica__dinamica_orbital_orbitas__leis_de_kepler__primeira_lei_de_kepler_orbita_eliptica",
+                  "label": "Primeira Lei de Kepler/Órbita Eliptíca",
+                  "children": [
+                    {
+                      "id": "mecanica_celeste_dinamica__dinamica_orbital_orbitas__leis_de_kepler__primeira_lei_de_kepler_orbita_eliptica__elipse",
+                      "label": "Elipse"
+                    },
+                    {
+                      "id": "mecanica_celeste_dinamica__dinamica_orbital_orbitas__leis_de_kepler__primeira_lei_de_kepler_orbita_eliptica__parametros_orbitais",
+                      "label": "Parâmetros Orbitais"
+                    }
+                  ]
+                },
+                {
+                  "id": "mecanica_celeste_dinamica__dinamica_orbital_orbitas__leis_de_kepler__segunda_lei_de_kepler",
+                  "label": "Segunda Lei de Kepler",
+                  "children": [
+                    {
+                      "id": "mecanica_celeste_dinamica__dinamica_orbital_orbitas__leis_de_kepler__segunda_lei_de_kepler__velocidade_areolar",
+                      "label": "Velocidade Areolar"
+                    },
+                    {
+                      "id": "mecanica_celeste_dinamica__dinamica_orbital_orbitas__leis_de_kepler__segunda_lei_de_kepler__equacao_de_kepler",
+                      "label": "Equação de Kepler"
+                    }
+                  ]
+                },
+                {
+                  "id": "mecanica_celeste_dinamica__dinamica_orbital_orbitas__leis_de_kepler__terceira_lei_de_kepler",
+                  "label": "Terceira Lei de Kepler"
+                }
+              ]
+            },
+            {
+              "id": "mecanica_celeste_dinamica__dinamica_orbital_orbitas__hodografo",
+              "label": "Hodógrafo"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "cosmologia_astronomia_extragalactica",
+      "label": "Cosmologia/Astronomia Extragaláctica",
+      "children": [
+        {
+          "id": "cosmologia_astronomia_extragalactica__galaxias",
+          "label": "Galáxias",
+          "children": [
+            {
+              "id": "cosmologia_astronomia_extragalactica__galaxias__curva_de_rotacao",
+              "label": "Curva de Rotação"
+            },
+            {
+              "id": "cosmologia_astronomia_extragalactica__galaxias__morfologia_galactica",
+              "label": "Morfologia Galáctica"
+            }
+          ]
+        },
+        {
+          "id": "cosmologia_astronomia_extragalactica__expansao",
+          "label": "Expansão",
+          "children": [
+            {
+              "id": "cosmologia_astronomia_extragalactica__expansao__lei_de_hubble_lemaitre",
+              "label": "Lei de Hubble-Lemaître"
+            },
+            {
+              "id": "cosmologia_astronomia_extragalactica__expansao__redshift_cosmologico",
+              "label": "Redshift Cosmológico"
+            },
+            {
+              "id": "cosmologia_astronomia_extragalactica__expansao__distancias_cosmologicas",
+              "label": "Distâncias Cosmológicas",
+              "children": [
+                {
+                  "id": "cosmologia_astronomia_extragalactica__expansao__distancias_cosmologicas__distancia_propria",
+                  "label": "Distância Própria"
+                },
+                {
+                  "id": "cosmologia_astronomia_extragalactica__expansao__distancias_cosmologicas__distancia_comovel",
+                  "label": "Distância Comóvel"
+                },
+                {
+                  "id": "cosmologia_astronomia_extragalactica__expansao__distancias_cosmologicas__distancia_luminosidade",
+                  "label": "Distância Luminosidade"
+                },
+                {
+                  "id": "cosmologia_astronomia_extragalactica__expansao__distancias_cosmologicas__distancia_angulo_diametro",
+                  "label": "Distância Ângulo-Diâmetro"
+                }
+              ]
+            },
+            {
+              "id": "cosmologia_astronomia_extragalactica__expansao__parametros_cosmologicos",
+              "label": "Parâmetros Cosmológicos",
+              "children": [
+                {
+                  "id": "cosmologia_astronomia_extragalactica__expansao__parametros_cosmologicos__parametro_de_desaceleracao",
+                  "label": "Parâmetro de Desaceleração"
+                },
+                {
+                  "id": "cosmologia_astronomia_extragalactica__expansao__parametros_cosmologicos__constante_cosmologica",
+                  "label": "Constante Cosmológica"
+                },
+                {
+                  "id": "cosmologia_astronomia_extragalactica__expansao__parametros_cosmologicos__fator_de_escala",
+                  "label": "Fator de Escala"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "cosmologia_astronomia_extragalactica__equacoes_cosmologicas",
+          "label": "Equações Cosmológicas",
+          "children": [
+            {
+              "id": "cosmologia_astronomia_extragalactica__equacoes_cosmologicas__1a_equacao_de_friedmann",
+              "label": "1ª Equação de Friedmann"
+            },
+            {
+              "id": "cosmologia_astronomia_extragalactica__equacoes_cosmologicas__2a_equacao_de_friedmann_equacao_dos_fluidos",
+              "label": "2ª Equação de Friedmann/Equação dos Fluidos"
+            },
+            {
+              "id": "cosmologia_astronomia_extragalactica__equacoes_cosmologicas__equacoes_de_estado",
+              "label": "Equações de Estado"
+            },
+            {
+              "id": "cosmologia_astronomia_extragalactica__equacoes_cosmologicas__equacao_de_aceleracao",
+              "label": "Equação de aceleração"
+            }
+          ]
+        },
+        {
+          "id": "cosmologia_astronomia_extragalactica__estrutura_do_universo",
+          "label": "Estrutura do Universo",
+          "children": [
+            {
+              "id": "cosmologia_astronomia_extragalactica__estrutura_do_universo__materia_escura",
+              "label": "Matéria Escura"
+            },
+            {
+              "id": "cosmologia_astronomia_extragalactica__estrutura_do_universo__energia_escura",
+              "label": "Energia Escura"
+            },
+            {
+              "id": "cosmologia_astronomia_extragalactica__estrutura_do_universo__radiacao_cosmica_de_fundo_cmb",
+              "label": "Radiação Cósmica de Fundo/CMB"
+            },
+            {
+              "id": "cosmologia_astronomia_extragalactica__estrutura_do_universo__curvatura_do_universo",
+              "label": "Curvatura do Universo"
+            },
+            {
+              "id": "cosmologia_astronomia_extragalactica__estrutura_do_universo__multiplas_componentes",
+              "label": "Múltiplas componentes"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "relatividade",
+      "label": "Relatividade",
+      "children": [
+        {
+          "id": "relatividade__cinematica_relativistica",
+          "label": "Cinemática Relativística",
+          "children": [
+            {
+              "id": "relatividade__cinematica_relativistica__dilatacao_do_tempo",
+              "label": "Dilatação do Tempo"
+            },
+            {
+              "id": "relatividade__cinematica_relativistica__contracao_do_comprimento",
+              "label": "Contração do Comprimento"
+            },
+            {
+              "id": "relatividade__cinematica_relativistica__transformacoes_de_lorentz",
+              "label": "Transformações de Lorentz"
+            },
+            {
+              "id": "relatividade__cinematica_relativistica__adicao_de_velocidades",
+              "label": "Adição de Velocidades"
+            },
+            {
+              "id": "relatividade__cinematica_relativistica__efeito_doppler_relativistico",
+              "label": "Efeito Doppler Relativístico"
+            },
+            {
+              "id": "relatividade__cinematica_relativistica__aceleracao_relativistica",
+              "label": "Aceleração Relativística"
+            }
+          ]
+        },
+        {
+          "id": "relatividade__dinamica_relativistica",
+          "label": "Dinâmica Relativística",
+          "children": [
+            {
+              "id": "relatividade__dinamica_relativistica__energia_relativistica",
+              "label": "Energia Relativística"
+            },
+            {
+              "id": "relatividade__dinamica_relativistica__momento_relativistico",
+              "label": "Momento Relativístico"
+            },
+            {
+              "id": "relatividade__dinamica_relativistica__forca_e_aceleracao",
+              "label": "Força e Aceleração"
+            },
+            {
+              "id": "relatividade__dinamica_relativistica__quadrivetor_de_momento",
+              "label": "Quadrivetor de Momento"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eletromagnetismo",
+      "label": "Eletromagnetismo",
+      "children": [
+        {
+          "id": "eletromagnetismo__lei_de_coloumb",
+          "label": "Lei de Coloumb"
+        },
+        {
+          "id": "eletromagnetismo__campo_magnetico",
+          "label": "Campo Magnético"
+        },
+        {
+          "id": "eletromagnetismo__forca_de_lorentz",
+          "label": "Força de Lorentz"
+        },
+        {
+          "id": "eletromagnetismo__lei_de_biot_savart",
+          "label": "Lei de Biot-Savart"
+        },
+        {
+          "id": "eletromagnetismo__lei_de_ampere",
+          "label": "Lei de Ampere"
+        }
+      ]
+    }
+  ]
+}

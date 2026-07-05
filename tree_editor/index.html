@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Editor de Árvores de Classificação</title>
+  <link rel="stylesheet" href="./styles.css">
+</head>
+<body>
+  <div class="app-shell">
+    <header class="topbar">
+      <div>
+        <p class="eyebrow">Classificação de Questões</p>
+        <h1>Editor de Árvores</h1>
+      </div>
+      <div class="topbar-actions">
+        <label class="tree-picker">
+          <span>Árvore</span>
+          <select id="treeSelect"></select>
+        </label>
+        <button id="reloadButton" class="ghost">Recarregar</button>
+        <button id="saveButton" class="primary">Salvar JSON</button>
+      </div>
+    </header>
+
+    <section class="workspace">
+      <aside class="panel tree-panel">
+        <div class="panel-header">
+          <div>
+            <h2>Navegação</h2>
+            <p id="treeStats" class="muted"></p>
+          </div>
+          <div class="toolbar">
+            <button id="expandAllButton" class="ghost">Expandir tudo</button>
+            <button id="collapseAllButton" class="ghost">Recolher</button>
+          </div>
+        </div>
+
+        <div class="search-box">
+          <input id="searchInput" type="search" placeholder="Buscar por nome, id ou alias">
+        </div>
+
+        <div id="treeContainer" class="tree-container"></div>
+      </aside>
+
+      <main class="panel detail-panel">
+        <div class="panel-header">
+          <div>
+            <h2>Editor do Nó</h2>
+            <p class="muted">Selecione um nó para editar.</p>
+          </div>
+        </div>
+
+        <div id="emptyState" class="empty-state">
+          <p>Nenhum nó selecionado.</p>
+          <button id="addRootButton" class="primary">Criar raiz</button>
+        </div>
+
+        <form id="nodeForm" class="node-form hidden">
+          <div class="form-grid">
+            <label>
+              <span>ID</span>
+              <input id="nodeIdInput" type="text" autocomplete="off">
+            </label>
+            <label>
+              <span>Nome</span>
+              <input id="nodeLabelInput" type="text" autocomplete="off">
+            </label>
+          </div>
+
+          <label>
+            <span>Aliases</span>
+            <textarea id="nodeAliasesInput" rows="4" placeholder="Um por linha"></textarea>
+          </label>
+
+          <label>
+            <span>Caminho</span>
+            <input id="nodePathInput" type="text" readonly>
+          </label>
+
+          <label>
+            <span>Resumo</span>
+            <input id="nodeMetaInput" type="text" readonly>
+          </label>
+
+          <div class="button-row">
+            <button type="submit" class="primary">Aplicar alterações</button>
+            <button type="button" id="addChildButton" class="ghost">Adicionar filho</button>
+            <button type="button" id="addSiblingButton" class="ghost">Adicionar irmão</button>
+            <button type="button" id="moveUpButton" class="ghost">Mover para cima</button>
+            <button type="button" id="moveDownButton" class="ghost">Mover para baixo</button>
+            <button type="button" id="deleteNodeButton" class="danger">Excluir nó</button>
+          </div>
+        </form>
+
+        <section class="json-preview">
+          <div class="panel-header">
+            <div>
+              <h2>Prévia JSON</h2>
+              <p class="muted">Atualiza localmente conforme você edita.</p>
+            </div>
+          </div>
+          <pre id="jsonPreview"></pre>
+        </section>
+      </main>
+    </section>
+  </div>
+
+  <div id="toast" class="toast hidden"></div>
+  <script src="./app.js" type="module"></script>
+</body>
+</html>

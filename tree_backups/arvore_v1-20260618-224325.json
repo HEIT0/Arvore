@@ -1,0 +1,1456 @@
+{
+  "schema_version": "1.1",
+  "kind": "legacy_tree",
+  "roots": [
+    {
+      "id": "fotometria_e_radiacao",
+      "label": "Fotometria e Radiação",
+      "children": [
+        {
+          "id": "corpo_negro",
+          "label": "Corpo Negro",
+          "children": [
+            {
+              "id": "lei_de_planck",
+              "label": "Lei de Planck",
+              "aliases": [
+                "Radiância Espectral"
+              ]
+            },
+            {
+              "id": "lei_de_rayleigh_jeans",
+              "label": "Lei de Rayleigh-Jeans"
+            },
+            {
+              "id": "lei_de_wien",
+              "label": "Lei de Wien"
+            },
+            {
+              "id": "lei_de_stefan_boltzmann",
+              "label": "Lei de Stefan-Boltzmann"
+            }
+          ]
+        },
+        {
+          "id": "espectroscopia",
+          "label": "Espectroscopia",
+          "children": [
+            {
+              "id": "efeito_doppler",
+              "label": "Efeito Doppler",
+              "aliases": [
+                "Redshift e Blueshift"
+              ]
+            },
+            {
+              "id": "leis_de_kirchhoff",
+              "label": "Leis de Kirchhoff"
+            },
+            {
+              "id": "espectro_eletromagnetico",
+              "label": "Espectro Eletromagnético",
+              "aliases": [
+                "Espectro das Estrelas"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "termodinamica",
+          "label": "Termodinâmica",
+          "children": [
+            {
+              "id": "primeira_lei_da_termodinamica",
+              "label": "Primeira Lei da Termodinâmica"
+            },
+            {
+              "id": "teorema_da_equiparticao_de_energia",
+              "label": "Teorema da Equipartição de Energia"
+            },
+            {
+              "id": "processos_termodinamicos",
+              "label": "Processos Termodinâmicos"
+            },
+            {
+              "id": "coeficiente_de_poisson",
+              "label": "Coeficiente de Poisson"
+            },
+            {
+              "id": "gas_de_fotons",
+              "label": "Gás de Fótons"
+            },
+            {
+              "id": "entropia",
+              "label": "Entropia"
+            },
+            {
+              "id": "massa_de_jeans",
+              "label": "Massa de Jeans"
+            },
+            {
+              "id": "livre_caminho_medio",
+              "label": "Livre Caminho Médio"
+            }
+          ]
+        },
+        {
+          "id": "escalas_fotometricas",
+          "label": "Escalas Fotométricas",
+          "children": [
+            {
+              "id": "brilho_e_luminosidade",
+              "label": "Brilho e Luminosidade"
+            },
+            {
+              "id": "magnitudes",
+              "label": "Magnitudes",
+              "children": [
+                {
+                  "id": "magnitude_aparente",
+                  "label": "Magnitude Aparente"
+                },
+                {
+                  "id": "magnitude_absoluta",
+                  "label": "Magnitude Absoluta"
+                },
+                {
+                  "id": "modulo_de_distancia",
+                  "label": "Módulo de Distância"
+                },
+                {
+                  "id": "equacao_de_pogson",
+                  "label": "Equação de Pogson"
+                },
+                {
+                  "id": "magnitude_superficial",
+                  "label": "Magnitude Superficial"
+                }
+              ]
+            },
+            {
+              "id": "sistemas_fotometricos",
+              "label": "Sistemas Fotométricos",
+              "children": [
+                {
+                  "id": "indice_de_cor",
+                  "label": "Índice de Cor"
+                },
+                {
+                  "id": "sistema_ubv",
+                  "label": "Sistema UBV",
+                  "aliases": [
+                    "Bandas Fotométricas"
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "extincao_interestelar",
+              "label": "Extinção Interestelar"
+            },
+            {
+              "id": "avermelhamento",
+              "label": "Avermelhamento"
+            },
+            {
+              "id": "profundidade_optica",
+              "label": "Profundidade Óptica"
+            },
+            {
+              "id": "fotometria_planetaria",
+              "label": "Fotometria Planetária",
+              "children": [
+                {
+                  "id": "albedo",
+                  "label": "Albedo"
+                },
+                {
+                  "id": "temperatura_de_um_planeta",
+                  "label": "Temperatura de um Planeta"
+                },
+                {
+                  "id": "brilho_da_lua",
+                  "label": "Brilho da Lua"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "astrofisica_estelar",
+      "label": "Astrofísica Estelar",
+      "children": [
+        {
+          "id": "propriedades_estelares",
+          "label": "Propriedades Estelares",
+          "children": [
+            {
+              "id": "classificacao_espectral",
+              "label": "Classificação Espectral",
+              "children": [
+                {
+                  "id": "diagrama_hr",
+                  "label": "Diagrama HR",
+                  "aliases": [
+                    "Diagrama de Hertzsprung-Russell"
+                  ]
+                },
+                {
+                  "id": "classificacao_de_harvard",
+                  "label": "Classificação de Harvard"
+                },
+                {
+                  "id": "classificacao_de_yerkes",
+                  "label": "Classificação de Yerkes"
+                }
+              ]
+            },
+            {
+              "id": "estrutura_interna",
+              "label": "Estrutura Interna",
+              "children": [
+                {
+                  "id": "equilibrio_hidrostatico",
+                  "label": "Equilíbrio Hidrostático"
+                },
+                {
+                  "id": "pressao_de_radiacao",
+                  "label": "Pressão de Radiação"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "evolucao_estelar",
+          "label": "Evolução Estelar",
+          "children": [
+            {
+              "id": "estagios_estelares",
+              "label": "Estágios Estelares",
+              "children": [
+                {
+                  "id": "formacao_estelar",
+                  "label": "Formação Estelar"
+                },
+                {
+                  "id": "sequencia_principal",
+                  "label": "Sequência Principal"
+                },
+                {
+                  "id": "gigantes_vermelhas",
+                  "label": "Gigantes Vermelhas"
+                }
+              ]
+            },
+            {
+              "id": "remanescentes",
+              "label": "Remanescentes",
+              "children": [
+                {
+                  "id": "anas_brancas",
+                  "label": "Anãs Brancas"
+                },
+                {
+                  "id": "estrelas_de_neutrons",
+                  "label": "Estrelas de Nêutrons"
+                },
+                {
+                  "id": "buracos_negros",
+                  "label": "Buracos Negros"
+                },
+                {
+                  "id": "supernovas",
+                  "label": "Supernovas"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sistemas_binarios_e_exoplanetas",
+      "label": "Sistemas Binários e Exoplanetas",
+      "children": [
+        {
+          "id": "massa_reduzida",
+          "label": "Massa Reduzida"
+        },
+        {
+          "id": "binarias",
+          "label": "Binárias",
+          "children": [
+            {
+              "id": "visuais",
+              "label": "Visuais"
+            },
+            {
+              "id": "astrometricas",
+              "label": "Astrométricas"
+            },
+            {
+              "id": "espectroscopicas",
+              "label": "Espectroscópicas"
+            },
+            {
+              "id": "eclipsantes",
+              "label": "Eclipsantes"
+            },
+            {
+              "id": "funcao_de_massa",
+              "label": "Função de Massa"
+            }
+          ]
+        },
+        {
+          "id": "exoplanetas",
+          "label": "Exoplanetas",
+          "children": [
+            {
+              "id": "transito",
+              "label": "Trânsito"
+            },
+            {
+              "id": "velocidade_radial",
+              "label": "Velocidade Radial"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "optica_e_instrumentacao",
+      "label": "Óptica e Instrumentação",
+      "children": [
+        {
+          "id": "optica_geometrica_e_fisica",
+          "label": "Óptica Geométrica e Física",
+          "children": [
+            {
+              "id": "principios_opticos",
+              "label": "Princípios Ópticos",
+              "children": [
+                {
+                  "id": "luz",
+                  "label": "Luz",
+                  "aliases": [
+                    "Reflexão e Refração"
+                  ]
+                },
+                {
+                  "id": "difracao_da_luz",
+                  "label": "Difração da Luz"
+                },
+                {
+                  "id": "lei_de_snell",
+                  "label": "Lei de Snell"
+                }
+              ]
+            },
+            {
+              "id": "elementos_opticos",
+              "label": "Elementos Ópticos",
+              "children": [
+                {
+                  "id": "espelhos_planos_e_esfericos",
+                  "label": "Espelhos Planos e Esféricos"
+                },
+                {
+                  "id": "dioptros_e_lentes",
+                  "label": "Dioptros e Lentes"
+                },
+                {
+                  "id": "formacao_de_imagens",
+                  "label": "Formação de Imagens"
+                }
+              ]
+            },
+            {
+              "id": "fenomenos_opticos",
+              "label": "Fenômenos Ópticos",
+              "children": [
+                {
+                  "id": "aberracoes_opticas",
+                  "label": "Aberrações Ópticas",
+                  "children": [
+                    {
+                      "id": "aberracao_cromatica",
+                      "label": "Aberração Cromática"
+                    },
+                    {
+                      "id": "aberracao_esferica",
+                      "label": "Aberração Esférica"
+                    }
+                  ]
+                },
+                {
+                  "id": "refracao_atmosferica",
+                  "label": "Refração Atmosférica"
+                },
+                {
+                  "id": "extincao_atmosferica",
+                  "label": "Extinção Atmosférica"
+                },
+                {
+                  "id": "seeing",
+                  "label": "Seeing",
+                  "aliases": [
+                    "Cintilação"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "telescopios",
+          "label": "Telescópios",
+          "children": [
+            {
+              "id": "tipos_de_telescopios",
+              "label": "Tipos de Telescópios",
+              "children": [
+                {
+                  "id": "refratores",
+                  "label": "Refratores"
+                },
+                {
+                  "id": "refletores",
+                  "label": "Refletores"
+                },
+                {
+                  "id": "compostos",
+                  "label": "Compostos",
+                  "aliases": [
+                    "Catadióptricos"
+                  ]
+                },
+                {
+                  "id": "radiotelescopios",
+                  "label": "Radiotelescópios"
+                }
+              ]
+            },
+            {
+              "id": "montagens",
+              "label": "Montagens",
+              "children": [
+                {
+                  "id": "altazimutal",
+                  "label": "Altazimutal"
+                },
+                {
+                  "id": "equatorial",
+                  "label": "Equatorial"
+                },
+                {
+                  "id": "acessorios",
+                  "label": "Acessórios"
+                }
+              ]
+            },
+            {
+              "id": "caracteristicas_fisicas_de_telescopios",
+              "label": "Características Físicas de Telescópios",
+              "children": [
+                {
+                  "id": "distancia_focal",
+                  "label": "Distância Focal"
+                },
+                {
+                  "id": "aumento",
+                  "label": "Aumento",
+                  "aliases": [
+                    "Ampliação"
+                  ]
+                },
+                {
+                  "id": "razao_focal",
+                  "label": "Razão Focal"
+                },
+                {
+                  "id": "magnitude_limite",
+                  "label": "Magnitude Limite"
+                },
+                {
+                  "id": "saida_de_pupila",
+                  "label": "Saída de Pupila"
+                },
+                {
+                  "id": "escala_de_placa",
+                  "label": "Escala de Placa"
+                },
+                {
+                  "id": "limites_e_resolucao_angular",
+                  "label": "Limites e Resolução Angular",
+                  "aliases": [
+                    "Critério de Rayleigh"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "detectores",
+          "label": "Detectores",
+          "children": [
+            {
+              "id": "ccd_e_cmos",
+              "label": "CCD e CMOS",
+              "children": [
+                {
+                  "id": "eficiencia_quantica",
+                  "label": "Eficiência Quântica"
+                },
+                {
+                  "id": "contagem",
+                  "label": "Contagem"
+                }
+              ]
+            },
+            {
+              "id": "razao_sinal_ruido",
+              "label": "Razão Sinal-Ruído",
+              "children": [
+                {
+                  "id": "ruido_termico",
+                  "label": "Ruído Térmico"
+                },
+                {
+                  "id": "ruido_de_leitura",
+                  "label": "Ruído de Leitura"
+                },
+                {
+                  "id": "distribuicao_de_poisson",
+                  "label": "Distribuição de Poisson"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "interferometria",
+          "label": "Interferometria"
+        }
+      ],
+      "aliases": [
+        "Astronomia Observacional"
+      ]
+    },
+    {
+      "id": "observacional",
+      "label": "Observacional",
+      "children": [
+        {
+          "id": "carta_celeste",
+          "label": "Carta Celeste",
+          "children": [
+            {
+              "id": "projecao_estereografica",
+              "label": "Projeção Estereográfica",
+              "aliases": [
+                "Projeção Azimutal Conforme"
+              ]
+            },
+            {
+              "id": "projecao_de_airy",
+              "label": "Projeção de Airy",
+              "aliases": [
+                "Projeção Azimutal de Airy"
+              ]
+            },
+            {
+              "id": "projecao_de_mercator",
+              "label": "Projeção de Mercator",
+              "aliases": [
+                "Projeção Cilíndrica Conforme"
+              ]
+            },
+            {
+              "id": "projecao_de_peters",
+              "label": "Projeção de Peters",
+              "aliases": [
+                "Projeção de Gall-Peters"
+              ]
+            },
+            {
+              "id": "projecao_ortogonal",
+              "label": "Projeção Ortogonal",
+              "aliases": [
+                "Projeção Azimutal Ortográfica"
+              ]
+            },
+            {
+              "id": "projecao_gnomonica",
+              "label": "Projeção Gnomônica",
+              "aliases": [
+                "Projeção Central"
+              ]
+            },
+            {
+              "id": "projecao_azimutal_equidistante",
+              "label": "Projeção Azimutal Equidistante",
+              "aliases": [
+                "Projeção de Postel"
+              ]
+            },
+            {
+              "id": "projecao_de_mollweide",
+              "label": "Projeção de Mollweide",
+              "aliases": [
+                "Projeção Elíptica"
+              ]
+            },
+            {
+              "id": "projecao_de_hammer_aitoff",
+              "label": "Projeção de Hammer-Aitoff",
+              "aliases": [
+                "Projeção Equatorial de Hammer"
+              ]
+            },
+            {
+              "id": "projecao_sinusoidal",
+              "label": "Projeção Sinusoidal",
+              "aliases": [
+                "Projeção de Sanson-Flamsteed"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "reconhecimento_de_ceu",
+          "label": "Reconhecimento de Céu",
+          "children": [
+            {
+              "id": "movimento_diurno_dos_astros",
+              "label": "Movimento Diurno dos Astros"
+            },
+            {
+              "id": "constelacoes",
+              "label": "Constelações"
+            },
+            {
+              "id": "objetos_de_ceu_profundo_dso_s",
+              "label": "Objetos de Céu Profundo (DSO's)"
+            },
+            {
+              "id": "estrelas",
+              "label": "Estrelas"
+            },
+            {
+              "id": "tracados",
+              "label": "Traçados"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sistema_solar",
+      "label": "Sistema Solar",
+      "children": [
+        {
+          "id": "unidades_astronomicas",
+          "label": "Unidades Astronômicas",
+          "children": [
+            {
+              "id": "ano_luz",
+              "label": "Ano-luz",
+              "aliases": [
+                "Segundo-luz",
+                "Minuto-luz"
+              ]
+            },
+            {
+              "id": "unidade_astronomica",
+              "label": "Unidade Astronômica"
+            },
+            {
+              "id": "parsec",
+              "label": "Parsec"
+            }
+          ]
+        },
+        {
+          "id": "sol",
+          "label": "Sol",
+          "children": [
+            {
+              "id": "atividade_solar",
+              "label": "Atividade Solar"
+            },
+            {
+              "id": "vento_solar",
+              "label": "Vento Solar"
+            }
+          ]
+        },
+        {
+          "id": "planetas",
+          "label": "Planetas",
+          "children": [
+            {
+              "id": "composicao_planetaria",
+              "label": "Composição Planetária"
+            },
+            {
+              "id": "translacao_planetaria",
+              "label": "Translação Planetária"
+            },
+            {
+              "id": "atmosferas",
+              "label": "Atmosferas"
+            },
+            {
+              "id": "zonas_habitaveis",
+              "label": "Zonas Habitáveis"
+            }
+          ],
+          "aliases": [
+            "Características Gerais dos Planetas"
+          ]
+        },
+        {
+          "id": "terra",
+          "label": "Terra",
+          "children": [
+            {
+              "id": "translacao_da_terra",
+              "label": "Translação da Terra"
+            },
+            {
+              "id": "rotacao_da_terra",
+              "label": "Rotação da Terra"
+            },
+            {
+              "id": "atmosfera_terrestre",
+              "label": "Atmosfera Terrestre"
+            },
+            {
+              "id": "biosfera",
+              "label": "Biosfera",
+              "aliases": [
+                "Ciclo da Água"
+              ]
+            }
+          ]
+        },
+        {
+          "id": "satelites_naturais_e_artificiais",
+          "label": "Satélites Naturais e Artificiais",
+          "aliases": [
+            "Características Gerais dos Satélites"
+          ]
+        },
+        {
+          "id": "lua",
+          "label": "Lua",
+          "children": [
+            {
+              "id": "eclipses",
+              "label": "Eclipses"
+            },
+            {
+              "id": "fases_da_lua",
+              "label": "Fases da Lua"
+            }
+          ]
+        },
+        {
+          "id": "corpos_menores",
+          "label": "Corpos Menores",
+          "children": [
+            {
+              "id": "asteroides",
+              "label": "Asteroides"
+            },
+            {
+              "id": "cometas",
+              "label": "Cometas"
+            },
+            {
+              "id": "meteoros",
+              "label": "Meteoros"
+            }
+          ]
+        }
+      ],
+      "aliases": [
+        "Astronomia Planetária"
+      ]
+    },
+    {
+      "id": "astronomia_de_posicao",
+      "label": "Astronomia de Posição",
+      "children": [
+        {
+          "id": "esfera_celeste",
+          "label": "Esfera Celeste",
+          "aliases": [
+            "Elementos da Esfera Celeste"
+          ]
+        },
+        {
+          "id": "sistemas_de_coordenadas",
+          "label": "Sistemas de Coordenadas",
+          "children": [
+            {
+              "id": "coordenadas_geograficas",
+              "label": "Coordenadas Geográficas",
+              "aliases": [
+                "Latitude e Longitude"
+              ]
+            },
+            {
+              "id": "coordenadas_horizontais",
+              "label": "Coordenadas Horizontais",
+              "aliases": [
+                "Azimute e Altura"
+              ]
+            },
+            {
+              "id": "coordenadas_equatoriais",
+              "label": "Coordenadas Equatoriais",
+              "aliases": [
+                "Ascensão Reta e Declinação"
+              ]
+            },
+            {
+              "id": "coordenadas_horarias",
+              "label": "Coordenadas Horárias",
+              "aliases": [
+                "Ângulo Horário"
+              ]
+            },
+            {
+              "id": "coordenadas_eclipticas",
+              "label": "Coordenadas Eclípticas"
+            },
+            {
+              "id": "coordenadas_galacticas",
+              "label": "Coordenadas Galácticas"
+            },
+            {
+              "id": "coordenadas_supergalacticas",
+              "label": "Coordenadas Supergalácticas "
+            }
+          ]
+        },
+        {
+          "id": "trigonometria_esferica",
+          "label": "Trigonometria Esférica",
+          "children": [
+            {
+              "id": "triangulo_de_posicao",
+              "label": "Triângulo de Posição",
+              "aliases": [
+                "Triângulo de Navegação",
+                "Triângulo PZX",
+                "Triângulo da PAZ"
+              ]
+            },
+            {
+              "id": "conversao_de_coordenadas",
+              "label": "Conversão de Coordenadas"
+            }
+          ]
+        },
+        {
+          "id": "escala_de_tempo",
+          "label": "Escala de Tempo",
+          "children": [
+            {
+              "id": "tempo_solar",
+              "label": "Tempo Solar",
+              "children": [
+                {
+                  "id": "tempo_solar_aparente",
+                  "label": "Tempo Solar Aparente"
+                },
+                {
+                  "id": "tempo_solar_medio",
+                  "label": "Tempo Solar Médio"
+                },
+                {
+                  "id": "equacao_do_tempo",
+                  "label": "Equação do Tempo"
+                },
+                {
+                  "id": "analema",
+                  "label": "Analema"
+                }
+              ]
+            },
+            {
+              "id": "tempo_sideral",
+              "label": "Tempo Sideral",
+              "children": [
+                {
+                  "id": "tempo_sideral_local",
+                  "label": "Tempo Sideral Local"
+                },
+                {
+                  "id": "tempo_sideral_de_greenwich",
+                  "label": "Tempo Sideral de Greenwich"
+                }
+              ]
+            },
+            {
+              "id": "fusos_horarios",
+              "label": "Fusos Horários"
+            },
+            {
+              "id": "calendarios",
+              "label": "Calendários",
+              "children": [
+                {
+                  "id": "ano_bissexto",
+                  "label": "Ano Bissexto"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "estacoes_do_ano",
+          "label": "Estações do Ano",
+          "children": [
+            {
+              "id": "equinocios_e_solsticios",
+              "label": "Equinócios e Solstícios"
+            }
+          ],
+          "aliases": [
+            "Obliquidade da Terra"
+          ]
+        },
+        {
+          "id": "precessao",
+          "label": "Precessão"
+        },
+        {
+          "id": "nutacao",
+          "label": "Nutação"
+        },
+        {
+          "id": "lunacao",
+          "label": "Lunação"
+        },
+        {
+          "id": "periodo_sinodico_e_sideral",
+          "label": "Período Sinódico e Sideral"
+        },
+        {
+          "id": "paralaxe",
+          "label": "Paralaxe"
+        },
+        {
+          "id": "relogio_de_sol",
+          "label": "Relógio de Sol",
+          "children": [
+            {
+              "id": "relogio_de_sol_vertical",
+              "label": "Relógio de Sol Vertical"
+            },
+            {
+              "id": "relogio_de_sol_horizontal",
+              "label": "Relógio de Sol Horizontal"
+            },
+            {
+              "id": "relogio_de_sol_declinante",
+              "label": "Relógio de Sol Declinante"
+            }
+          ]
+        }
+      ],
+      "aliases": [
+        "Astronomia Esférica",
+        "Astrometria"
+      ]
+    },
+    {
+      "id": "fisica",
+      "label": "Física",
+      "children": [
+        {
+          "id": "cinematica",
+          "label": "Cinemática",
+          "children": [
+            {
+              "id": "velocidade_media",
+              "label": "Velocidade Média"
+            }
+          ]
+        },
+        {
+          "id": "leis_de_newton",
+          "label": "Leis de Newton"
+        },
+        {
+          "id": "momento_angular",
+          "label": "Momento Angular"
+        },
+        {
+          "id": "movimento_harmonico_simples",
+          "label": "Movimento Harmônico Simples",
+          "aliases": [
+            "MHS"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "mecanica_celeste",
+      "label": "Mecânica Celeste",
+      "children": [
+        {
+          "id": "astronautica",
+          "label": "Astronáutica",
+          "children": [
+            {
+              "id": "foguetes",
+              "label": "Foguetes",
+              "children": [
+                {
+                  "id": "equacao_do_foguete",
+                  "label": "Equação do Foguete"
+                },
+                {
+                  "id": "propelente",
+                  "label": "Propelente"
+                },
+                {
+                  "id": "obafog",
+                  "label": "OBAFOG",
+                  "aliases": [
+                    "MOBFOG"
+                  ]
+                }
+              ],
+              "aliases": [
+                "Características Gerais dos Foguetes"
+              ]
+            },
+            {
+              "id": "orbitas_artificiais",
+              "label": "Órbitas Artificiais",
+              "children": [
+                {
+                  "id": "geoestacionaria",
+                  "label": "Geoestacionária"
+                },
+                {
+                  "id": "heliossincrona",
+                  "label": "Heliossíncrona"
+                }
+              ]
+            },
+            {
+              "id": "transferencia_orbital",
+              "label": "Transferência Orbital",
+              "children": [
+                {
+                  "id": "transferencia_de_hohmann",
+                  "label": "Transferência de Hohmann"
+                },
+                {
+                  "id": "transferencia_bi_eliptica",
+                  "label": "Transferência Bi-elíptica"
+                },
+                {
+                  "id": "estilingue_gravitacional",
+                  "label": "Estilingue Gravitacional"
+                }
+              ],
+              "aliases": [
+                "Manobras"
+              ]
+            },
+            {
+              "id": "historia_da_exploracao_espacial",
+              "label": "História da Exploração Espacial",
+              "children": []
+            }
+          ]
+        },
+        {
+          "id": "gravitacao",
+          "label": "Gravitação",
+          "children": [
+            {
+              "id": "sistemas_de_multiplos_corpos",
+              "label": "Sistemas de Múltiplos Corpos",
+              "children": [
+                {
+                  "id": "centro_de_massa",
+                  "label": "Centro de Massa"
+                },
+                {
+                  "id": "pontos_de_lagrange",
+                  "label": "Pontos de Lagrange"
+                },
+                {
+                  "id": "forcas_de_mare",
+                  "label": "Forças de Maré",
+                  "children": [
+                    {
+                      "id": "limite_de_roche",
+                      "label": "Limite de Roche"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "id": "potencial_gravitacional",
+              "label": "Potencial Gravitacional",
+              "children": [
+                {
+                  "id": "equacao_de_binet",
+                  "label": "Equação de Binet"
+                },
+                {
+                  "id": "teorema_do_virial",
+                  "label": "Teorema do Virial"
+                },
+                {
+                  "id": "energia_orbital",
+                  "label": "Energia Orbital"
+                },
+                {
+                  "id": "potencial_efetivo",
+                  "label": "Potencial Efetivo"
+                }
+              ]
+            },
+            {
+              "id": "forca_gravitacional",
+              "label": "Força Gravitacional",
+              "children": [
+                {
+                  "id": "lei_da_gravitacao_universal",
+                  "label": "Lei da Gravitação Universal"
+                },
+                {
+                  "id": "lei_de_gauss_para_gravitacao",
+                  "label": "Lei de Gauss para Gravitação"
+                }
+              ],
+              "aliases": [
+                "Aceleração Gravitacional"
+              ]
+            },
+            {
+              "id": "velocidade_de_escape",
+              "label": "Velocidade de Escape",
+              "children": [
+                {
+                  "id": "raio_de_schwarzschild",
+                  "label": "Raio de Schwarzschild"
+                }
+              ]
+            },
+            {
+              "id": "velocidade_orbital",
+              "label": "Velocidade Orbital",
+              "aliases": [
+                "Vis Viva"
+              ]
+            },
+            {
+              "id": "lente_gravitacional",
+              "label": "Lente Gravitacional"
+            }
+          ],
+          "aliases": [
+            "Gravidade"
+          ]
+        },
+        {
+          "id": "dinamica_orbital",
+          "label": "Dinâmica Orbital",
+          "children": [
+            {
+              "id": "orbita_parabolica",
+              "label": "Órbita Parabólica"
+            },
+            {
+              "id": "orbita_hiperbolica",
+              "label": "Órbita Hiperbólica"
+            },
+            {
+              "id": "leis_de_kepler",
+              "label": "Leis de Kepler",
+              "children": [
+                {
+                  "id": "primeira_lei_de_kepler",
+                  "label": "Primeira Lei de Kepler",
+                  "children": [
+                    {
+                      "id": "elipse",
+                      "label": "Elipse"
+                    },
+                    {
+                      "id": "parametros_orbitais",
+                      "label": "Parâmetros Orbitais"
+                    }
+                  ],
+                  "aliases": [
+                    "Órbita Eliptíca"
+                  ]
+                },
+                {
+                  "id": "segunda_lei_de_kepler",
+                  "label": "Segunda Lei de Kepler",
+                  "children": [
+                    {
+                      "id": "velocidade_areolar",
+                      "label": "Velocidade Areolar"
+                    },
+                    {
+                      "id": "equacao_de_kepler",
+                      "label": "Equação de Kepler"
+                    }
+                  ]
+                },
+                {
+                  "id": "terceira_lei_de_kepler",
+                  "label": "Terceira Lei de Kepler"
+                }
+              ]
+            },
+            {
+              "id": "hodografo",
+              "label": "Hodógrafo"
+            }
+          ],
+          "aliases": [
+            "Órbitas"
+          ]
+        }
+      ],
+      "aliases": [
+        "Dinâmica"
+      ]
+    },
+    {
+      "id": "cosmologia",
+      "label": "Cosmologia",
+      "children": [
+        {
+          "id": "galaxias",
+          "label": "Galáxias",
+          "children": [
+            {
+              "id": "curva_de_rotacao",
+              "label": "Curva de Rotação"
+            },
+            {
+              "id": "morfologia_galactica",
+              "label": "Morfologia Galáctica"
+            }
+          ]
+        },
+        {
+          "id": "expansao",
+          "label": "Expansão",
+          "children": [
+            {
+              "id": "lei_de_hubble_lemaitre",
+              "label": "Lei de Hubble-Lemaître"
+            },
+            {
+              "id": "redshift_cosmologico",
+              "label": "Redshift Cosmológico"
+            },
+            {
+              "id": "distancias_cosmologicas",
+              "label": "Distâncias Cosmológicas",
+              "children": [
+                {
+                  "id": "distancia_propria",
+                  "label": "Distância Própria"
+                },
+                {
+                  "id": "distancia_comovel",
+                  "label": "Distância Comóvel"
+                },
+                {
+                  "id": "distancia_luminosidade",
+                  "label": "Distância Luminosidade"
+                },
+                {
+                  "id": "distancia_angulo_diametro",
+                  "label": "Distância Ângulo-Diâmetro"
+                }
+              ]
+            },
+            {
+              "id": "parametros_cosmologicos",
+              "label": "Parâmetros Cosmológicos",
+              "children": [
+                {
+                  "id": "parametro_de_desaceleracao",
+                  "label": "Parâmetro de Desaceleração"
+                },
+                {
+                  "id": "constante_cosmologica",
+                  "label": "Constante Cosmológica"
+                },
+                {
+                  "id": "fator_de_escala",
+                  "label": "Fator de Escala"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "equacoes_cosmologicas",
+          "label": "Equações Cosmológicas",
+          "children": [
+            {
+              "id": "1a_equacao_de_friedmann",
+              "label": "1ª Equação de Friedmann"
+            },
+            {
+              "id": "2a_equacao_de_friedmann",
+              "label": "2ª Equação de Friedmann",
+              "aliases": [
+                "Equação dos Fluidos"
+              ]
+            },
+            {
+              "id": "equacoes_de_estado",
+              "label": "Equações de Estado"
+            },
+            {
+              "id": "equacao_de_aceleracao",
+              "label": "Equação de aceleração"
+            }
+          ]
+        },
+        {
+          "id": "estrutura_do_universo",
+          "label": "Estrutura do Universo",
+          "children": [
+            {
+              "id": "materia_escura",
+              "label": "Matéria Escura"
+            },
+            {
+              "id": "energia_escura",
+              "label": "Energia Escura"
+            },
+            {
+              "id": "radiacao_cosmica_de_fundo",
+              "label": "Radiação Cósmica de Fundo",
+              "aliases": [
+                "CMB"
+              ]
+            },
+            {
+              "id": "curvatura_do_universo",
+              "label": "Curvatura do Universo"
+            },
+            {
+              "id": "multiplas_componentes",
+              "label": "Múltiplas componentes"
+            }
+          ]
+        }
+      ],
+      "aliases": [
+        "Astronomia Extragaláctica"
+      ]
+    },
+    {
+      "id": "relatividade",
+      "label": "Relatividade",
+      "children": [
+        {
+          "id": "cinematica_relativistica",
+          "label": "Cinemática Relativística",
+          "children": [
+            {
+              "id": "dilatacao_do_tempo",
+              "label": "Dilatação do Tempo"
+            },
+            {
+              "id": "contracao_do_comprimento",
+              "label": "Contração do Comprimento"
+            },
+            {
+              "id": "transformacoes_de_lorentz",
+              "label": "Transformações de Lorentz"
+            },
+            {
+              "id": "adicao_de_velocidades",
+              "label": "Adição de Velocidades"
+            },
+            {
+              "id": "efeito_doppler_relativistico",
+              "label": "Efeito Doppler Relativístico"
+            },
+            {
+              "id": "aceleracao_relativistica",
+              "label": "Aceleração Relativística"
+            }
+          ]
+        },
+        {
+          "id": "dinamica_relativistica",
+          "label": "Dinâmica Relativística",
+          "children": [
+            {
+              "id": "energia_relativistica",
+              "label": "Energia Relativística"
+            },
+            {
+              "id": "momento_relativistico",
+              "label": "Momento Relativístico"
+            },
+            {
+              "id": "forca_e_aceleracao",
+              "label": "Força e Aceleração"
+            },
+            {
+              "id": "quadrivetor_de_momento",
+              "label": "Quadrivetor de Momento"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "eletromagnetismo",
+      "label": "Eletromagnetismo",
+      "children": [
+        {
+          "id": "lei_de_coloumb",
+          "label": "Lei de Coloumb"
+        },
+        {
+          "id": "campo_magnetico",
+          "label": "Campo Magnético"
+        },
+        {
+          "id": "forca_de_lorentz",
+          "label": "Força de Lorentz"
+        },
+        {
+          "id": "lei_de_biot_savart",
+          "label": "Lei de Biot-Savart"
+        },
+        {
+          "id": "lei_de_ampere",
+          "label": "Lei de Ampere"
+        }
+      ]
+    }
+  ]
+}

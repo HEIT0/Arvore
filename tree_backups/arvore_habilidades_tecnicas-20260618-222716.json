@@ -1,0 +1,253 @@
+{
+  "schema_version": "1.0",
+  "kind": "technical_skills_tree",
+  "roots": [
+    {
+      "id": "principais_habilidades_tecnicas",
+      "label": "Principais Habilidades Técnicas",
+      "children": [
+        {
+          "id": "analise_de_dados",
+          "label": "Análise de Dados",
+          "children": [
+            {
+              "id": "estatistica",
+              "label": "Estatística",
+              "children": [
+                {
+                  "id": "media",
+                  "label": "Média"
+                },
+                {
+                  "id": "moda",
+                  "label": "Moda"
+                },
+                {
+                  "id": "mediana",
+                  "label": "Mediana"
+                },
+                {
+                  "id": "quartis",
+                  "label": "Quartis"
+                },
+                {
+                  "id": "desvio_padrao",
+                  "label": "Desvio Padrão",
+                  "children": [
+                    {
+                      "id": "desvio_padrao_da_media",
+                      "label": "Desvio Padrão da Média"
+                    }
+                  ]
+                },
+                {
+                  "id": "algarismos_significativos",
+                  "label": "Algarismos Significativos"
+                }
+              ]
+            },
+            {
+              "id": "incerteza",
+              "label": "Incerteza",
+              "children": [
+                {
+                  "id": "propagacao",
+                  "label": "Propagação"
+                }
+              ]
+            },
+            {
+              "id": "ajustes_e_graficos",
+              "label": "Ajustes e Gráficos",
+              "children": [
+                {
+                  "id": "regressao_linear",
+                  "label": "Regressão Linear"
+                },
+                {
+                  "id": "histograma",
+                  "label": "Histograma"
+                },
+                {
+                  "id": "grafico_polar",
+                  "label": "Gráfico Polar"
+                },
+                {
+                  "id": "grafico_log_log",
+                  "label": "Gráfico Log-Log"
+                },
+                {
+                  "id": "grafico_semi_log",
+                  "label": "Gráfico Semi-Log"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "calculo",
+          "label": "Cálculo",
+          "children": [
+            {
+              "id": "limites",
+              "label": "Limites"
+            },
+            {
+              "id": "derivadas",
+              "label": "Derivadas"
+            },
+            {
+              "id": "integrais",
+              "label": "Integrais"
+            }
+          ]
+        },
+        {
+          "id": "iteracao",
+          "label": "Iteração"
+        },
+        {
+          "id": "vetores",
+          "label": "Vetores",
+          "children": [
+            {
+              "id": "decomposicao_vetorial",
+              "label": "Decomposição Vetorial",
+              "children": [
+                {
+                  "id": "conversao_de_voordenadas_vetoriais",
+                  "label": "Conversão de Coordenadas Vetoriais"
+                }
+              ]
+            },
+            {
+              "id": "soma_e_subtracao_de_vetor",
+              "label": "Soma e Subtração de Vetor"
+            },
+            {
+              "id": "produto_escalar",
+              "label": "Produto Escalar"
+            },
+            {
+              "id": "produto_vetorial",
+              "label": "Produto Vetorial"
+            }
+          ]
+        },
+        {
+          "id": "logaritmo",
+          "label": "Logaritmo"
+        },
+        {
+          "id": "geometria",
+          "label": "Geometria",
+          "children": [
+            {
+              "id": "areas_e_volumes",
+              "label": "Áreas e Volumes"
+            },
+            {
+              "id": "semelhanca_de_triangulos",
+              "label": "Semelhança de Triângulos"
+            },
+            {
+              "id": "teorema_de_pitagoras",
+              "label": "Teorema de Pitágoras"
+            },
+            {
+              "id": "geometria_espacial",
+              "label": "Geometria Espacial"
+            }
+          ]
+        },
+        {
+          "id": "trigonometria",
+          "label": "Trigonometria",
+          "children": [
+            {
+              "id": "relacoes_trigonometricas",
+              "label": "Relações Trigonométricas"
+            },
+            {
+              "id": "lei_dos_senos_e_lei_dos_cossenos",
+              "label": "Lei dos Senos e Lei dos Cossenos"
+            }
+          ]
+        },
+        {
+          "id": "aproximacoes",
+          "label": "Aproximações",
+          "children": [
+            {
+              "id": "aproximacao_binomial",
+              "label": "Aproximação Binomial"
+            },
+            {
+              "id": "aproximacao_trigonometrica",
+              "label": "Aproximação Trigonométrica"
+            }
+          ]
+        },
+        {
+          "id": "analise_dimensional",
+          "label": "Análise Dimensional"
+        },
+        {
+          "id": "notacao_cientifica",
+          "label": "Notação Científica"
+        },
+        {
+          "id": "potenciacao",
+          "label": "Potenciação"
+        },
+        {
+          "id": "conversao_de_unidades",
+          "label": "Conversão de unidades"
+        },
+        {
+          "id": "razao",
+          "label": "Razão",
+          "aliases": [
+            "Proporção",
+            "Porcentagem",
+            "Regra de Três"
+          ]
+        },
+        {
+          "id": "equacoes_do_primeiro_e_segundo_grau",
+          "label": "Equações do primeiro e segundo grau"
+        },
+        {
+          "id": "operacoes_basicas",
+          "label": "Operações Básicas",
+          "children": [
+            {
+              "id": "adicao",
+              "label": "Adição"
+            },
+            {
+              "id": "subtracao",
+              "label": "Subtração"
+            },
+            {
+              "id": "multiplicacao",
+              "label": "Multiplicação"
+            },
+            {
+              "id": "divisao",
+              "label": "Divisão"
+            },
+            {
+              "id": "fracoes",
+              "label": "Frações"
+            }
+          ]
+        },
+        {
+          "id": "conceitual",
+          "label": "Conceitual"
+        }
+      ]
+    }
+  ]
+}

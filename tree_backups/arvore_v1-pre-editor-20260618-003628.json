@@ -1,0 +1,456 @@
+{
+  "Fotometria e Radiação": {
+    "Corpo Negro": [
+      "Lei de Planck/Radiância Espectral",
+      "Lei de Rayleigh-Jeans",
+      "Lei de Wien",
+      "Lei de Stefan-Boltzmann"
+    ],
+    "Espectroscopia": [
+      "Efeito Doppler/Redshift e Blueshift",
+      "Leis de Kirchhoff",
+      "Espectro Eletromagnético/Espectro das Estrelas"
+    ],
+    "Termodinâmica": [
+      "Primeira Lei da Termodinâmica",
+      "Teorema da Equipartição de Energia",
+      "Processos Termodinâmicos",
+      "Coeficiente de Poisson",
+      "Gás de Fótons",
+      "Entropia",
+      "Massa de Jeans",
+      "Livre Caminho Médio"
+    ],
+    "Escalas Fotométricas": {
+      "Brilho e Luminosidade": [],
+      "Magnitudes": [
+        "Magnitude Aparente",
+        "Magnitude Absoluta",
+        "Módulo de Distância",
+        "Equação de Pogson",
+        "Magnitude Superficial"
+      ],
+      "Sistemas Fotométricos": [
+        "Índice de Cor",
+        "Sistema UBV/Bandas Fotométricas"
+      ],
+      "Extinção Interestelar": [],
+      "Avermelhamento": [],
+      "Profundidade Óptica": [],
+      "Fotometria Planetária": [
+        "Albedo",
+        "Temperatura de um Planeta",
+        "Brilho da Lua"
+      ]
+    }
+  },
+  "Astrofísica Estelar": {
+    "Propriedades Estelares": {
+      "Classificação Espectral": [
+        "Diagrama HR/Diagrama de Hertzsprung-Russell",
+        "Classificação de Harvard",
+        "Classificação de Yerkes"
+      ],
+      "Estrutura Interna": [
+        "Equilíbrio Hidrostático",
+        "Pressão de Radiação"
+      ]
+    },
+    "Evolução Estelar": {
+      "Estágios Estelares": [
+        "Formação Estelar",
+        "Sequência Principal",
+        "Gigantes Vermelhas"
+      ],
+      "Remanescentes": [
+        "Anãs Brancas",
+        "Estrelas de Nêutrons",
+        "Buracos Negros",
+        "Supernovas"
+      ]
+    }
+  },
+  "Sistemas Binários e Exoplanetas": {
+    "Massa Reduzida": [],
+    "Binárias": [
+      "Visuais",
+      "Astrométricas",
+      "Espectroscópicas",
+      "Eclipsantes",
+      "Função de Massa"
+    ],
+    "Exoplanetas": [
+      "Trânsito",
+      "Velocidade Radial"
+    ]
+  },
+  "Análise de Dados": {
+    "Estatística": [
+      "Média",
+      "Moda",
+      "Mediana",
+      "Quartis",
+      {
+        "Desvio Padrão": [
+          "Desvio Padrão da Média"
+        ]
+      },
+      "Algarismos Significativos"
+    ],
+    "Incerteza": [
+      "Propagação"
+    ],
+    "Ajustes e Gráficos": [
+      "Regressão Linear",
+      "Histograma",
+      "Gráfico polar",
+      "Gráfico Log-Log",
+      "Gráfico Semi-Log"
+    ]
+  },
+  "Interpretação": [
+    "Interpretação de Texto e Imagem",
+    "Interpretação de Gráficos e Tabelas"
+  ],
+  "Matemática": [
+    {
+      "Aproximações": [
+        "Aproximação Binomial",
+        "Aproximação Trigonométrica"
+      ]
+    },
+    {
+      "Vetores": [
+        "Decomposição vetorial",
+        "Produto Escalar",
+        "Produto Vetorial",
+        {
+          "Sistemas de Coordenadas": [
+            "Conversão de Coordenadas Cartesianas e Esféricas e Polares"
+          ]
+        }
+      ]
+    },
+    {
+      "Matemática Elementar/Matemática Elementar": [
+        "Logaritmo",
+        "Notação Científica",
+        "Potenciação",
+        "Conversão de unidades",
+        "Trigonometria",
+        "Razão/Proporção/Porcentagem/Regra de Três",
+        "Equações do primeiro e segundo grau"
+      ]
+    },
+    "Análise Dimensional",
+    {
+      "Geometria": [
+        {
+          "Trigonometria": [
+            "Relações Trigonométricas",
+            "Lei dos Senos e Lei dos Cossenos"
+          ]
+        },
+        "Áreas e Volumes",
+        "Semelhança de Triângulos",
+        "Teorema de Pitágoras",
+        "Geometria Espacial"
+      ]
+    },
+    {
+      "Cálculo": [
+        "Limites",
+        "Derivadas",
+        "Integrais"
+      ]
+    }
+  ],
+  "Óptica e Instrumentação/Astronomia Observacional": {
+    "Óptica Geométrica e Física": {
+      "Princípios Ópticos": [
+        "Luz/Reflexão e Refração",
+        "Difração da Luz",
+        "Lei de Snell"
+      ],
+      "Elementos Ópticos": [
+        "Espelhos Planos e Esféricos",
+        "Dioptros e Lentes",
+        "Formação de Imagens"
+      ],
+      "Fenômenos Ópticos": [
+        {
+          "Aberrações Ópticas": [
+            "Aberração Cromática",
+            "Aberração Esférica"
+          ]
+        },
+        "Refração Atmosférica",
+        "Extinção Atmosférica",
+        "Seeing / Cintilação"
+      ]
+    },
+    "Telescópios": {
+      "Tipos de Telescópios": [
+        "Refratores",
+        "Refletores",
+        "Compostos/Catadióptricos",
+        "Radiotelescópios"
+      ],
+      "Montagens": [
+        "Altazimutal",
+        "Equatorial",
+        "Acessórios"
+      ],
+      "Características Físicas de Telescópios": [
+        "Distância Focal",
+        "Aumento/Ampliação",
+        "Razão Focal",
+        "Magnitude Limite",
+        "Saída de Pupila",
+        "Escala de Placa",
+        "Limites e Resolução Angular/Critério de Rayleigh"
+      ]
+    },
+    "Detectores": {
+      "CCD e CMOS": [
+        "Eficiência Quântica",
+        "Contagem"
+      ],
+      "Razão Sinal-Ruído": [
+        "Ruído Térmico",
+        "Ruído de Leitura",
+        "Distribuição de Poisson"
+      ]
+    },
+    "Interferometria": []
+  },
+  "Observacional": {
+    "Carta Celeste": [
+      "Projeção Estereográfica/Projeção Azimutal Conforme",
+      "Projeção de Airy/Projeção Azimutal de Airy",
+      "Projeção de Mercator/Projeção Cilíndrica Conforme",
+      "Projeção de Peters/Projeção de Gall-Peters",
+      "Projeção Ortogonal/Projeção Azimutal Ortográfica",
+      "Projeção Gnomônica/Projeção Central",
+      "Projeção Azimutal Equidistante/Projeção de Postel",
+      "Projeção de Mollweide/Projeção Elíptica",
+      "Projeção de Hammer-Aitoff/Projeção Equatorial de Hammer",
+      "Projeção Sinusoidal/Projeção de Sanson-Flamsteed"
+    ],
+    "Reconhecimento de Céu": [
+      "Movimento Diurno dos Astros",
+      "Constelações",
+      "Objetos de Céu Profundo (DSO's)",
+      "Estrelas",
+      "Traçados"
+    ]
+  },
+  "Sistema Solar/Astronomia Planetária": {
+    "Unidades Astronômicas": [
+      "Ano-luz/Segundo-luz/Minuto-luz",
+      "Unidade Astronômica",
+      "Parsec"
+    ],
+    "Sol": [
+      "Atividade Solar",
+      "Vento Solar"
+    ],
+    "Planetas/Características Gerais dos Planetas": [
+      "Composição Planetária",
+      "Translação Planetária",
+      "Atmosferas",
+      "Zonas Habitáveis"
+    ],
+    "Terra": [
+      "Translação da Terra",
+      "Rotação da Terra",
+      "Atmosfera Terrestre",
+      "Biosfera/Ciclo da Água"
+    ],
+    "Satélites Naturais e Artificiais/Características Gerais dos Satélites": [],
+    "Lua": [
+      "Eclipses",
+      "Fases da Lua"
+    ],
+    "Corpos Menores": [
+      "Asteroides",
+      "Cometas",
+      "Meteoros"
+    ]
+  },
+  "Astronomia de Posição/Astronomia Esférica/Astrometria": {
+    "Esfera Celeste/Elementos da Esfera Celeste": [],
+    "Sistemas de Coordenadas": [
+      "Coordenadas Geográficas / Latitude e Longitude",
+      "Coordenadas Horizontais / Azimute e Altura",
+      "Coordenadas Equatoriais / Ascensão Reta e Declinação",
+      "Coordenadas Horárias / Ângulo Horário",
+      "Coordenadas Eclípticas",
+      "Coordenadas Galácticas",
+      "Coordenadas Supergalácticas "
+    ],
+    "Trigonometria Esférica": {
+      "Triângulo de Posição/Triângulo de Navegação/Triângulo PZX/Triângulo da PAZ": [],
+      "Conversão de Coordenadas": []
+    },
+    "Escala de Tempo": {
+      "Tempo Solar": [
+        "Tempo Solar Aparente",
+        "Tempo Solar Médio",
+        "Equação do Tempo",
+        "Analema"
+      ],
+      "Tempo Sideral": [
+        "Tempo Sideral Local",
+        "Tempo Sideral de Greenwich"
+      ],
+      "Fusos Horários": [],
+      "Calendários": [
+        "Ano Bissexto"
+      ]
+    },
+    "Estações do Ano/Obliquidade da Terra  ": [
+      "Equinócios e Solstícios"
+    ],
+    "Precessão": [],
+    "Nutação": [],
+    "Lunação": [],
+    "Período Sinódico e Sideral": [],
+    "Paralaxe": [],
+    "Relógio de Sol": [
+      "Relógio de Sol Vertical",
+      "Relógio de Sol Horizontal",
+      "Relógio de Sol Declinante"
+    ]
+  },
+  "Física": {
+    "Cinemática": [
+      "Velocidade Média"
+    ],
+    "Leis de Newton": [],
+    "Momento Angular": [],
+    "Movimento Harmônico Simples/MHS": []
+  },
+  "Mecânica Celeste/Dinâmica": {
+    "Astronáutica": {
+      "Foguetes/Características Gerais dos Foguetes": [
+        "Equação do Foguete",
+        "Propelente",
+        "OBAFOG/MOBFOG"
+      ],
+      "Órbitas Artificiais": [
+        "Geoestacionária",
+        "Heliossíncrona"
+      ],
+      "Transferência Orbital/Manobras": [
+        "Transferência de Hohmann",
+        "Transferência Bi-elíptica",
+        "Estilingue Gravitacional"
+      ],
+      "História da Exploração Espacial": [
+        "Novo Assunto"
+      ]
+    },
+    "Gravitação/Gravidade": {
+      "Sistemas de Múltiplos Corpos": [
+        "Centro de Massa",
+        "Pontos de Lagrange",
+        {
+          "Forças de Maré": [
+            "Limite de Roche"
+          ]
+        }
+      ],
+      "Potencial Gravitacional": [
+        "Equação de Binet",
+        "Teorema do Virial",
+        "Energia Orbital",
+        "Potencial Efetivo"
+      ],
+      "Força Gravitacional/Aceleração Gravitacional": [
+        "Lei da Gravitação Universal",
+        "Lei de Gauss para Gravitação"
+      ],
+      "Velocidade de Escape": [
+        "Raio de Schwarzschild"
+      ],
+      "Velocidade Orbital/Vis Viva": [],
+      "Lente Gravitacional": []
+    },
+    "Dinâmica Orbital/Órbitas": {
+      "Órbita Parabólica": [],
+      "Órbita Hiperbólica": [],
+      "Leis de Kepler": {
+        "Primeira Lei de Kepler/Órbita Eliptíca": [
+          "Elipse",
+          "Parâmetros Orbitais"
+        ],
+        "Segunda Lei de Kepler": [
+          "Velocidade Areolar",
+          "Equação de Kepler"
+        ],
+        "Terceira Lei de Kepler": []
+      },
+      "Hodógrafo": []
+    }
+  },
+  "Cosmologia/Astronomia Extragaláctica":
+    {"Galáxias": [
+      "Curva de Rotação",
+      "Morfologia Galáctica" 
+    ],
+     "Expansão": [
+        "Lei de Hubble-Lemaître",
+        "Redshift Cosmológico",
+        {"Distâncias Cosmológicas":[
+          "Distância Própria",
+          "Distância Comóvel",
+          "Distância Luminosidade",
+          "Distância Ângulo-Diâmetro"
+        ]},
+        {"Parâmetros Cosmológicos":[
+        "Parâmetro de Desaceleração",
+        "Constante Cosmológica",
+        "Fator de Escala"
+      ]}
+      ],
+      "Equações Cosmológicas":[
+        "1ª Equação de Friedmann",
+        "2ª Equação de Friedmann/Equação dos Fluidos",
+        "Equações de Estado",
+        "Equação de aceleração"
+      ],
+
+      "Estrutura do Universo": [
+        "Matéria Escura",
+        "Energia Escura",
+        "Radiação Cósmica de Fundo/CMB",
+        "Curvatura do Universo",
+        "Múltiplas componentes"
+      ]
+  
+  },
+  "Relatividade": {
+    "Cinemática Relativística": [
+      "Dilatação do Tempo",
+      "Contração do Comprimento",
+      "Transformações de Lorentz",
+      "Adição de Velocidades",
+      "Efeito Doppler Relativístico",
+      "Aceleração Relativística"
+    ],
+    "Dinâmica Relativística": [
+      "Energia Relativística",
+      "Momento Relativístico",
+      "Força e Aceleração",
+      "Quadrivetor de Momento"
+    ]
+  },
+  "Eletromagnetismo": [
+    "Lei de Coloumb",
+    "Campo Magnético",
+    "Força de Lorentz",
+    "Lei de Biot-Savart",
+    "Lei de Ampere"
+  ]
+}
