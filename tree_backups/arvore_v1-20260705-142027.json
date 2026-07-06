@@ -543,8 +543,8 @@
               ]
             },
             {
-              "id": "estrutura_interna_das_estrelas",
-              "label": "Estrutura Interna das Estrelas",
+              "id": "estrutura_interna",
+              "label": "Estrutura Interna",
               "instructions": "",
               "children": [
                 {
@@ -556,16 +556,8 @@
                   "id": "pressao_de_radiacao",
                   "label": "Pressão de Radiação",
                   "instructions": ""
-                },
-                {
-                  "id": "fusao_nuclear",
-                  "label": "Fusão Nuclear"
                 }
               ]
-            },
-            {
-              "id": "composicao_estelar",
-              "label": "Composição Estelar"
             }
           ]
         },
@@ -927,6 +919,11 @@
           "instructions": "",
           "children": [
             {
+              "id": "movimento_diurno_dos_astros",
+              "label": "Movimento Diurno dos Astros",
+              "instructions": ""
+            },
+            {
               "id": "constelacoes",
               "label": "Constelações",
               "instructions": ""
@@ -991,6 +988,11 @@
                   "instructions": ""
                 },
                 {
+                  "id": "translacao_planetaria",
+                  "label": "Translação Planetária",
+                  "instructions": ""
+                },
+                {
                   "id": "atmosferas",
                   "label": "Atmosferas",
                   "instructions": ""
@@ -999,10 +1001,6 @@
                   "id": "zonas_habitaveis",
                   "label": "Zonas Habitáveis",
                   "instructions": ""
-                },
-                {
-                  "id": "configuracao_planetaria",
-                  "label": "Configuração Planetária"
                 }
               ],
               "aliases": [
@@ -1158,19 +1156,10 @@
           "instructions": ""
         },
         {
-          "id": "movimento_proprio",
-          "label": "Movimento Próprio"
-        },
-        {
           "id": "astronomia_de_posicao",
           "label": "Astronomia de Posição",
           "instructions": "",
           "children": [
-            {
-              "id": "movimento_diurno_dos_astros",
-              "label": "Movimento Diurno dos Astros",
-              "instructions": ""
-            },
             {
               "id": "esfera_celeste",
               "label": "Esfera Celeste",

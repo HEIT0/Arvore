@@ -543,8 +543,8 @@
               ]
             },
             {
-              "id": "estrutura_interna_das_estrelas",
-              "label": "Estrutura Interna das Estrelas",
+              "id": "estrutura_interna",
+              "label": "Estrutura Interna",
               "instructions": "",
               "children": [
                 {
@@ -556,16 +556,8 @@
                   "id": "pressao_de_radiacao",
                   "label": "Pressão de Radiação",
                   "instructions": ""
-                },
-                {
-                  "id": "fusao_nuclear",
-                  "label": "Fusão Nuclear"
                 }
               ]
-            },
-            {
-              "id": "composicao_estelar",
-              "label": "Composição Estelar"
             }
           ]
         },
