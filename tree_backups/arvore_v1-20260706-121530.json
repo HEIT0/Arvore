@@ -558,10 +558,6 @@
             {
               "id": "composicao_estelar",
               "label": "Composição Estelar"
-            },
-            {
-              "id": "cefeidas",
-              "label": "Cefeidas"
             }
           ]
         },
@@ -868,10 +864,6 @@
                       "aliases": [
                         "Critério de Rayleigh"
                       ]
-                    },
-                    {
-                      "id": "campo_de_visao",
-                      "label": "Campo de Visão"
                     }
                   ]
                 }
@@ -1308,6 +1300,16 @@
                   "label": "Tempo Solar",
                   "instructions": "",
                   "children": [
+                    {
+                      "id": "tempo_solar_aparente",
+                      "label": "Tempo Solar Aparente",
+                      "instructions": ""
+                    },
+                    {
+                      "id": "tempo_solar_medio",
+                      "label": "Tempo Solar Médio",
+                      "instructions": ""
+                    },
                     {
                       "id": "equacao_do_tempo",
                       "label": "Equação do Tempo",

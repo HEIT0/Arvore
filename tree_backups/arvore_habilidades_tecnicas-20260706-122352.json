@@ -196,10 +196,6 @@
             {
               "id": "radianos",
               "label": "Radianos"
-            },
-            {
-              "id": "angulo_solido",
-              "label": "Ângulo Sólido"
             }
           ]
         },

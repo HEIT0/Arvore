@@ -868,10 +868,6 @@
                       "aliases": [
                         "Critério de Rayleigh"
                       ]
-                    },
-                    {
-                      "id": "campo_de_visao",
-                      "label": "Campo de Visão"
                     }
                   ]
                 }
