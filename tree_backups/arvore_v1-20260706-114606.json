@@ -1568,10 +1568,6 @@
                   "id": "lente_gravitacional",
                   "label": "Lente Gravitacional",
                   "instructions": ""
-                },
-                {
-                  "id": "raio_influencia_gravitacional",
-                  "label": "Raio de Influência Gravitacional"
                 }
               ],
               "aliases": [
