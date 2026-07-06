@@ -243,6 +243,11 @@
           "instructions": ""
         },
         {
+          "id": "notacao_cientifica",
+          "label": "Notação Científica",
+          "instructions": ""
+        },
+        {
           "id": "potenciacao",
           "label": "Potenciação",
           "instructions": ""
