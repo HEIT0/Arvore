@@ -1198,12 +1198,6 @@
               "instructions": "",
               "aliases": [
                 "Elementos da Esfera Celeste"
-              ],
-              "children": [
-                {
-                  "id": "horizonte",
-                  "label": "Horizonte"
-                }
               ]
             },
             {
