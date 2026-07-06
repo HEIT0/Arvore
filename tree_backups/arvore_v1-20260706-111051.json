@@ -1641,16 +1641,6 @@
                   "id": "hodografo",
                   "label": "Hodógrafo",
                   "instructions": ""
-                },
-                {
-                  "id": "orbita_circular",
-                  "label": "Órbita Circular",
-                  "children": [
-                    {
-                      "id": "forca_centripeta",
-                      "label": "Força Centrípeta"
-                    }
-                  ]
                 }
               ],
               "aliases": [

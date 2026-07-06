@@ -523,6 +523,14 @@
               "instructions": "",
               "children": [
                 {
+                  "id": "diagrama_hr",
+                  "label": "Diagrama HR",
+                  "instructions": "",
+                  "aliases": [
+                    "Diagrama de Hertzsprung-Russell"
+                  ]
+                },
+                {
                   "id": "classificacao_de_harvard",
                   "label": "Classificação de Harvard",
                   "instructions": ""
@@ -571,14 +579,6 @@
               "label": "Estágios Estelares",
               "instructions": "",
               "children": [
-                {
-                  "id": "diagrama_hr",
-                  "label": "Diagrama HR",
-                  "instructions": "",
-                  "aliases": [
-                    "Diagrama de Hertzsprung-Russell"
-                  ]
-                },
                 {
                   "id": "formacao_estelar",
                   "label": "Formação Estelar",
@@ -1641,16 +1641,6 @@
                   "id": "hodografo",
                   "label": "Hodógrafo",
                   "instructions": ""
-                },
-                {
-                  "id": "orbita_circular",
-                  "label": "Órbita Circular",
-                  "children": [
-                    {
-                      "id": "forca_centripeta",
-                      "label": "Força Centrípeta"
-                    }
-                  ]
                 }
               ],
               "aliases": [

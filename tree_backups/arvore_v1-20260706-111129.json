@@ -1644,13 +1644,7 @@
                 },
                 {
                   "id": "orbita_circular",
-                  "label": "Órbita Circular",
-                  "children": [
-                    {
-                      "id": "forca_centripeta",
-                      "label": "Força Centrípeta"
-                    }
-                  ]
+                  "label": "Órbita Circular"
                 }
               ],
               "aliases": [
