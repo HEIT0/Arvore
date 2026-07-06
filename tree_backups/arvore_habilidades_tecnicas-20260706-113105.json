@@ -192,10 +192,6 @@
               "id": "geometria_espacial",
               "label": "Geometria Espacial",
               "instructions": ""
-            },
-            {
-              "id": "radianos",
-              "label": "Radianos"
             }
           ]
         },
