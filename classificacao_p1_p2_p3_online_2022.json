@@ -1,0 +1,818 @@
+[
+  {
+    "question_id": "171pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "coordenadas_equatoriais"
+      ],
+      "habillities_tags_id": [
+        "conversao_de_unidades"
+      ]
+    }
+  },
+  {
+    "question_id": "172pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "lua",
+        "movimento_diurno_dos_astros"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "173pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "asteroides"
+      ],
+      "habillities_tags_id": [
+        "geometria"
+      ]
+    }
+  },
+  {
+    "question_id": "174pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "coordenadas_geograficas",
+        "movimento_diurno_dos_astros"
+      ],
+      "habillities_tags_id": [
+        "geometria"
+      ]
+    }
+  },
+  {
+    "question_id": "175pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "morfologia_galactica"
+      ],
+      "habillities_tags_id": [
+        "geometria"
+      ]
+    }
+  },
+  {
+    "question_id": "176pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "fases_da_lua",
+        "equacao_de_pogson"
+      ],
+      "habillities_tags_id": [
+        "logaritmo"
+      ]
+    }
+  },
+  {
+    "question_id": "177pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "equacao_do_tempo"
+      ],
+      "habillities_tags_id": [
+        "conversao_de_unidades"
+      ]
+    }
+  },
+  {
+    "question_id": "178pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "tempo_na_sequencia_principal"
+      ],
+      "habillities_tags_id": [
+        "logaritmo"
+      ]
+    }
+  },
+  {
+    "question_id": "179pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "modulo_de_distancia"
+      ],
+      "habillities_tags_id": [
+        "logaritmo"
+      ]
+    }
+  },
+  {
+    "question_id": "180pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "coordenadas_horizontais",
+        "lua"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "181pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "binarias",
+        "centro_de_massa",
+        "terceira_lei_de_kepler"
+      ],
+      "habillities_tags_id": [
+        "razao",
+        "conversao_de_unidades"
+      ]
+    }
+  },
+  {
+    "question_id": "182pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "resolucao_angular"
+      ],
+      "habillities_tags_id": [
+        "conversao_de_unidades",
+        "razao"
+      ]
+    }
+  },
+  {
+    "question_id": "183pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "lei_de_stefan_boltzmann",
+        "equacao_de_pogson"
+      ],
+      "habillities_tags_id": [
+        "logaritmo"
+      ]
+    }
+  },
+  {
+    "question_id": "184pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "paralaxe_trigonometrica",
+        "equacao_de_pogson"
+      ],
+      "habillities_tags_id": [
+        "logaritmo"
+      ]
+    }
+  },
+  {
+    "question_id": "185pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "astronomia_de_posicao"
+      ],
+      "habillities_tags_id": [
+        "geometria"
+      ]
+    }
+  },
+  {
+    "question_id": "186pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "cefeidas",
+        "magnitude_limite"
+      ],
+      "habillities_tags_id": [
+        "logaritmo"
+      ]
+    }
+  },
+  {
+    "question_id": "187pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "contagem",
+        "equacao_de_pogson"
+      ],
+      "habillities_tags_id": [
+        "logaritmo"
+      ]
+    }
+  },
+  {
+    "question_id": "188pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "binarias"
+      ],
+      "habillities_tags_id": [
+        "geometria"
+      ]
+    }
+  },
+  {
+    "question_id": "189pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "periodo_sinodico_e_sideral",
+        "coordenadas_horizontais"
+      ],
+      "habillities_tags_id": [
+        "conversao_de_unidades"
+      ]
+    }
+  },
+  {
+    "question_id": "190pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "modulo_de_distancia"
+      ],
+      "habillities_tags_id": [
+        "logaritmo"
+      ]
+    }
+  },
+  {
+    "question_id": "191pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "segunda_lei_de_kepler"
+      ],
+      "habillities_tags_id": [
+        "razao"
+      ]
+    }
+  },
+  {
+    "question_id": "192pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "paralaxe_trigonometrica"
+      ],
+      "habillities_tags_id": [
+        "conversao_de_unidades"
+      ]
+    }
+  },
+  {
+    "question_id": "193pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "estagios_estelares"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "194pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "relogio_de_sol_vertical",
+        "equacao_do_tempo"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "195pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "configuracao_planetaria",
+        "coordenadas_horizontais"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "196pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "raio_de_schwarzschild",
+        "velocidade_orbital"
+      ],
+      "habillities_tags_id": [
+        "potenciacao"
+      ]
+    }
+  },
+  {
+    "question_id": "197pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "configuracao_planetaria"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "198pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "satelites_naturais_e_artificiais"
+      ],
+      "habillities_tags_id": [
+        "conversao_de_unidades"
+      ]
+    }
+  },
+  {
+    "question_id": "199pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "satelites_naturais_e_artificiais"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "200pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "coordenadas_equatoriais",
+        "equinocios_e_solsticios"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "201pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "coordenadas_equatoriais",
+        "coordenadas_geograficas",
+        "circumpolaridade"
+      ],
+      "habillities_tags_id": [
+        "geometria"
+      ]
+    }
+  },
+  {
+    "question_id": "202pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "carta_celeste",
+        "coordenadas_horarias"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "203pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "aumento",
+        "razao_focal"
+      ],
+      "habillities_tags_id": [
+        "razao"
+      ]
+    }
+  },
+  {
+    "question_id": "204pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "lei_de_wien"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "205pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "efeito_doppler"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "206pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "lei_de_stefan_boltzmann"
+      ],
+      "habillities_tags_id": [
+        "potenciacao"
+      ]
+    }
+  },
+  {
+    "question_id": "207pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "parametros_orbitais"
+      ],
+      "habillities_tags_id": [
+        "razao"
+      ]
+    }
+  },
+  {
+    "question_id": "208pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "classificacao_de_harvard"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "209pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "resolucao_angular"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "210pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "paralaxe_trigonometrica"
+      ],
+      "habillities_tags_id": [
+        "razao"
+      ]
+    }
+  },
+  {
+    "question_id": "211pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "magnitude_aparente",
+        "equacao_planck",
+        "asteroides",
+        "eclipses",
+        "movimento_diurno_dos_astros"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "212pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "planetas"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "213pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "translacao_da_terra"
+      ],
+      "habillities_tags_id": [
+        "geometria"
+      ]
+    }
+  },
+  {
+    "question_id": "214pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "telescopios_refletores"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "215pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "coordenadas_horizontais",
+        "coordenadas_geograficas",
+        "equinocios_e_solsticios"
+      ],
+      "habillities_tags_id": [
+        "geometria"
+      ]
+    }
+  },
+  {
+    "question_id": "216pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "fases_da_lua"
+      ],
+      "habillities_tags_id": [
+        "razao"
+      ]
+    }
+  },
+  {
+    "question_id": "217pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "terceira_lei_de_kepler"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "218pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "centro_de_massa",
+        "estagios_estelares",
+        "zonas_habitaveis",
+        "atmosfera_terrestre"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "219pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "magnitude_aparente",
+        "brilho_e_luminosidade",
+        "estagios_estelares"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "220pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "terceira_lei_de_kepler",
+        "parametros_orbitais"
+      ],
+      "habillities_tags_id": [
+        "geometria"
+      ]
+    }
+  },
+  {
+    "question_id": "221pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "classificacao_de_harvard",
+        "magnitude_absoluta"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "222pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "espectroscopicas"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "223pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "satelites_naturais_e_artificiais"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "224pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "equinocios_e_solsticios"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "225pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "astronomia_de_posicao"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "226pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "corpo_negro"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "227pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "magnitude_absoluta"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "228pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "coordenadas_horizontais",
+        "equinocios_e_solsticios"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "229pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "equinocios_e_solsticios"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "230pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "circumpolaridade",
+        "constelacoes"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  }
+]
