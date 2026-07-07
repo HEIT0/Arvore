@@ -625,17 +625,17 @@
             },
             {
               "id": "astrometricas",
-              "label": "Binárias Astrométricas",
+              "label": "Astrométricas",
               "instructions": ""
             },
             {
               "id": "espectroscopicas",
-              "label": "Binárias Espectroscópicas",
+              "label": "Espectroscópicas",
               "instructions": ""
             },
             {
               "id": "eclipsantes",
-              "label": "Binárias Eclipsantes",
+              "label": "Eclipsantes",
               "instructions": ""
             },
             {
