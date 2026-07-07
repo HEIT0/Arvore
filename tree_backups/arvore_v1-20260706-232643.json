@@ -1453,10 +1453,6 @@
               ]
             }
           ]
-        },
-        {
-          "id": "diametro_angular",
-          "label": "Diâmetro Angular"
         }
       ]
     },
