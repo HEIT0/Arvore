@@ -504,10 +504,6 @@
           "aliases": [
             "Escalas Fotométricas"
           ]
-        },
-        {
-          "id": "equacao_planck",
-          "label": "Equação de Planck"
         }
       ]
     },
