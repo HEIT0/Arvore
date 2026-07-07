@@ -620,7 +620,7 @@
           "children": [
             {
               "id": "visuais",
-              "label": "Binárias Visuais",
+              "label": "Visuais",
               "instructions": ""
             },
             {
@@ -1125,6 +1125,11 @@
             {
               "id": "nutacao",
               "label": "Nutação",
+              "instructions": ""
+            },
+            {
+              "id": "lunacao",
+              "label": "Lunação",
               "instructions": ""
             },
             {

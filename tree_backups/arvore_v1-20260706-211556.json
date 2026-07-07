@@ -504,10 +504,6 @@
           "aliases": [
             "Escalas Fotométricas"
           ]
-        },
-        {
-          "id": "equacao_planck",
-          "label": "Equação de Planck"
         }
       ]
     },
@@ -620,7 +616,7 @@
           "children": [
             {
               "id": "visuais",
-              "label": "Binárias Visuais",
+              "label": "Visuais",
               "instructions": ""
             },
             {
@@ -1125,6 +1121,11 @@
             {
               "id": "nutacao",
               "label": "Nutação",
+              "instructions": ""
+            },
+            {
+              "id": "lunacao",
+              "label": "Lunação",
               "instructions": ""
             },
             {

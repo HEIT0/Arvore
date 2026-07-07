@@ -1128,6 +1128,11 @@
               "instructions": ""
             },
             {
+              "id": "lunacao",
+              "label": "Lunação",
+              "instructions": ""
+            },
+            {
               "id": "periodo_sinodico_e_sideral",
               "label": "Período Sinódico e Sideral",
               "instructions": ""
