@@ -64,8 +64,8 @@
           "instructions": "",
           "children": [
             {
-              "id": "forca_e_aceleracao_relativisticas",
-              "label": "Força e Aceleração Relativísticas",
+              "id": "forca_e_aceleracao",
+              "label": "Força e Aceleração",
               "instructions": ""
             },
             {
