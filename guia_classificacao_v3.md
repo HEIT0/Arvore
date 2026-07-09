@@ -25,10 +25,8 @@
 - Rank 1: `Análise de Dados`, `Cálculo`, `Iteração`,`Vetores`
 - Rank 2: `Geometria`, `Logaritmo`
 - Rank 3: `Aproximações`, `Análise Dimensional`
-- Rank 4: `Notação Científica`, `Potenciação`
-- Rank 5: `Conversão de unidades`, `Razão`, `Equações do primeiro e segundo grau`
-- Rank 6: `Operações Básicas`
-- Rank 7: `Conceitual`
+- Rank 4: `Operações Básicas`
+- Rank 5: `Conceitual`
 
 ## Level
 A classificação de level de questão deve ser feita com base na origem da questão assim:

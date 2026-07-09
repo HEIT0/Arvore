@@ -1595,11 +1595,6 @@
                   "instructions": ""
                 },
                 {
-                  "id": "parametros_orbitais",
-                  "label": "Parâmetros Orbitais",
-                  "instructions": ""
-                },
-                {
                   "id": "leis_de_kepler",
                   "label": "Leis de Kepler",
                   "instructions": "",
@@ -1608,7 +1603,18 @@
                       "id": "primeira_lei_de_kepler",
                       "label": "Primeira Lei de Kepler",
                       "instructions": "",
-                      "children": [],
+                      "children": [
+                        {
+                          "id": "elipse",
+                          "label": "Elipse",
+                          "instructions": ""
+                        },
+                        {
+                          "id": "parametros_orbitais",
+                          "label": "Parâmetros Orbitais",
+                          "instructions": ""
+                        }
+                      ],
                       "aliases": [
                         "Órbita Eliptíca"
                       ]

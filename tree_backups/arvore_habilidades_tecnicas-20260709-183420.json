@@ -244,6 +244,21 @@
       "children": []
     },
     {
+      "id": "potenciacao",
+      "label": "Potenciação",
+      "instructions": ""
+    },
+    {
+      "id": "razao",
+      "label": "Razão",
+      "instructions": "",
+      "aliases": [
+        "Proporção",
+        "Porcentagem",
+        "Regra de Três"
+      ]
+    },
+    {
       "id": "conceitual",
       "label": "Conceitual",
       "instructions": "para quando depende apenas de interpretação gráfica e ou textual ou de conhecimentos teóricos sem ter que fazer conta"
