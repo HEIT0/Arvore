@@ -1,0 +1,1048 @@
+[
+  {
+    "question_id": "962pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "lua"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "963pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "planetas"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "964pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "planetas"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "965pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "terra"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "966pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "astronomia_sistema_solar"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "967pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "planetas"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "968pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "astronomia_sistema_solar"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "969pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "obafog"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "970pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "foguetes"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "971pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "planetas"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "952pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "lua"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "953pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "planetas"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "954pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "gravitacao"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "955pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "coordenadas_geograficas"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "956pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "constelacoes"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "957pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "lua"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "958pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "planetas"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "959pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "obafog"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "960pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "foguetes"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "961pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "obafog"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "842pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "brilho_e_luminosidade"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "843pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "ano_luz"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "844pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "ano_luz"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "845pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "primeira_lei_de_kepler"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "846pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "lei_de_stefan_boltzmann"
+      ],
+      "habillities_tags_id": [
+        "potenciacao"
+      ]
+    }
+  },
+  {
+    "question_id": "847pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "constelacoes"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "848pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "equinocios_e_solsticios"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "849pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "foguetes"
+      ],
+      "habillities_tags_id": [
+        "operacoes_basicas"
+      ]
+    }
+  },
+  {
+    "question_id": "850pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "foguetes"
+      ],
+      "habillities_tags_id": [
+        "conversao_de_unidades",
+        "razao"
+      ]
+    }
+  },
+  {
+    "question_id": "851pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "historia_da_exploracao_espacial"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "832pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "astronomia_sistema_solar"
+      ],
+      "habillities_tags_id": [
+        "razao"
+      ]
+    }
+  },
+  {
+    "question_id": "833pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "tempo_na_sequencia_principal"
+      ],
+      "habillities_tags_id": [
+        "notacao_cientifica",
+        "potenciacao"
+      ]
+    }
+  },
+  {
+    "question_id": "834pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "caracteristicas_fisicas_de_telescopios"
+      ],
+      "habillities_tags_id": [
+        "geometria"
+      ]
+    }
+  },
+  {
+    "question_id": "835pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "equinocios_e_solsticios"
+      ],
+      "habillities_tags_id": [
+        "razao"
+      ]
+    }
+  },
+  {
+    "question_id": "836pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "relogio_de_sol_vertical"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "837pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "raio_de_schwarzschild"
+      ],
+      "habillities_tags_id": [
+        "notacao_cientifica"
+      ]
+    }
+  },
+  {
+    "question_id": "838pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "lua"
+      ],
+      "habillities_tags_id": [
+        "geometria"
+      ]
+    }
+  },
+  {
+    "question_id": "839pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "historia_da_exploracao_espacial"
+      ],
+      "habillities_tags_id": [
+        "razao"
+      ]
+    }
+  },
+  {
+    "question_id": "840pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "foguetes"
+      ],
+      "habillities_tags_id": [
+        "conversao_de_unidades",
+        "razao"
+      ]
+    }
+  },
+  {
+    "question_id": "841pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "atmosferas"
+      ],
+      "habillities_tags_id": [
+        "razao"
+      ]
+    }
+  },
+  {
+    "question_id": "942pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "lua"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "943pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "astronomia_sistema_solar"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "944pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "astronomia_sistema_solar"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "945pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "planetas"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "946pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "planetas"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "947pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "terra"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "948pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "planetas"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "949pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "obafog"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "950pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "obafog"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "951pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "foguetes"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "932pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "satelites_naturais_e_artificiais"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "933pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "astronomia_sistema_solar"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "934pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "planetas"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "935pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "atmosferas"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "936pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "constelacoes"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "937pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "planetas"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "938pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "astronomia_sistema_solar"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "939pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "foguetes"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "940pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "obafog"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "941pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "obafog"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "822pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "lei_de_stefan_boltzmann"
+      ],
+      "habillities_tags_id": [
+        "potenciacao"
+      ]
+    }
+  },
+  {
+    "question_id": "823pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "brilho_e_luminosidade"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "824pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "velocidade_media"
+      ],
+      "habillities_tags_id": [
+        "razao"
+      ]
+    }
+  },
+  {
+    "question_id": "825pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "segunda_lei_de_kepler"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "826pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "constelacoes"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "827pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "equinocios_e_solsticios"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "828pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "planetas"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "829pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "foguetes"
+      ],
+      "habillities_tags_id": [
+        "razao"
+      ]
+    }
+  },
+  {
+    "question_id": "830pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "historia_da_exploracao_espacial"
+      ],
+      "habillities_tags_id": [
+        "operacoes_basicas"
+      ]
+    }
+  },
+  {
+    "question_id": "831pt",
+    "metadata": {
+      "level": 0,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "transferencia_orbital"
+      ],
+      "habillities_tags_id": [
+        "razao"
+      ]
+    }
+  },
+  {
+    "question_id": "812pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "equinocios_e_solsticios"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "813pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "segunda_lei_de_kepler"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "814pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "satelites_naturais_e_artificiais"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "815pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "periodo_sinodico_e_sideral"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "816pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "temperatura_de_um_planeta"
+      ],
+      "habillities_tags_id": [
+        "razao"
+      ]
+    }
+  },
+  {
+    "question_id": "817pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "transito",
+        "parsec"
+      ],
+      "habillities_tags_id": [
+        "geometria"
+      ]
+    }
+  },
+  {
+    "question_id": "818pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "relogio_de_sol"
+      ],
+      "habillities_tags_id": [
+        "conceitual"
+      ]
+    }
+  },
+  {
+    "question_id": "819pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "foguetes"
+      ],
+      "habillities_tags_id": [
+        "razao"
+      ]
+    }
+  },
+  {
+    "question_id": "820pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "transferencia_orbital"
+      ],
+      "habillities_tags_id": [
+        "conversao_de_unidades",
+        "razao"
+      ]
+    }
+  },
+  {
+    "question_id": "821pt",
+    "metadata": {
+      "level": 1,
+      "situation": "provisorio",
+      "content_tags_id": [
+        "transferencia_de_hohmann",
+        "terceira_lei_de_kepler"
+      ],
+      "habillities_tags_id": [
+        "potenciacao"
+      ]
+    }
+  }
+]
